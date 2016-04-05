@@ -119,6 +119,9 @@ Dark Gray	     | #222
 .pad-40 {
 	padding: 40px;
 }
+.pad-40-0 {
+	padding: 40px 0;
+}
 .pad-40-20 {
 	padding: 40px 20px;
 }
@@ -548,7 +551,7 @@ table {
 	border: 4px solid #fff;
 	border-radius: 50px;
 	position: absolute;
-	top: -90px;
+	top: -110px;
 	left: calc(50% - 50px);
 	z-index: 5;
 }
@@ -638,6 +641,9 @@ footer .social li a img {
 	}
 	.mobile {
 		display: block;
+	}
+	.osprey-icon {
+		position: static;
 	}
 }
 @media screen and (max-width: 690px) {

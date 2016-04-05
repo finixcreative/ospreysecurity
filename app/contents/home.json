@@ -88,8 +88,8 @@
 				"config": {
 					"type": "row",
 					"class": {
-						"outer": "",
-						"inner": "pad"
+						"outer": "pad-40-0",
+						"inner": ""
 					},
 					"bg": {
 						"img": "",
