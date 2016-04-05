@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html ng-app="finixApp">
+	<head ng-controller="ClientController">
+		<!-- Brand -->
+		<title>{{client.company}} | {{client.meta.title}}</title>
+		<link rel="icon" href="{{client.meta.favicon}}">
+		<!-- Metadata -->
+		<meta name="description" content="{{client.meta.description}}">
+		<meta name="keywords" content="{{client.meta.keywords}}">
+		<meta name="author" content="{{client.meta.author}}">
+		<meta name="viewport" content="width=device-width">
+		<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+		<meta charset="utf-8">
+		<!-- Styles -->
+		<link type="text/css" rel="stylesheet" href="app/assets/styles/responsive.css"/>
+		<link type="text/css" rel="stylesheet" href="https://cdn.rawgit.com/novus/nvd3/v1.8.1/build/nv.d3.css"/>
+		<link type="text/css" rel="stylesheet" href="app/assets/styles/styles.css"/>
+		<link type="text/css" rel="stylesheet" href="client/styles/overrides.css"/>
+		<!-- External Script Libraries -->
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.22/angular.js"></script>
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.22/angular-route.js"></script>
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.22/angular-resource.js"></script>
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.22/angular-animate.js"></script>
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.22/angular-touch.js"></script>
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.22/angular-sanitize.js"></script>
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
+		<script type="text/javascript" src="https://cdn.rawgit.com/novus/nvd3/v1.8.1/build/nv.d3.js"></script>
+		<script type="text/javascript" src="https://s3-eu-west-1.amazonaws.com/share.typeform.com/embed.js"></script>
+		<!-- Base Scripts -->
+		<script type="text/javascript" src="app/app.js"></script>
+		<script type="text/javascript" src="app/routes.js"></script>
+		<script type='text/javascript' src='app/assets/scripts/angular-parallax.js'></script>
+		<script type='text/javascript' src='app/modules/chimera/chimera-drv.js'></script>
+		<script type='text/javascript' src='app/modules/chimera/chimera-ctrl.js'></script>
+		<script type='text/javascript' src='app/modules/hydra/hydra-drv.js'></script>
+		<script type='text/javascript' src='app/modules/hydra/hydra-ctrl.js'></script>
+		<script type='text/javascript' src='client/scripts/google_analytics.js'></script>
+		<!-- Editable Data -->
+		<script type="text/javascript" src="app/assets/scripts/client-ctrl.js"></script>
+		<script type="text/javascript" src="app/assets/scripts/sitemap-ctrl.js"></script>
+		<script type="text/javascript" src="app/pages/content/content-srv.js"></script>
+		<script type="text/javascript" src="app/pages/content/content-ctrl.js"></script>
+		<!-- Core Modules -->
+		<script type="text/javascript" src="app/modules/config/config.js"></script>
+		<script type="text/javascript" src="app/modules/config/config-drv.js"></script>
+		<script type="text/javascript" src="app/modules/config/config-ctrl.js"></script>
+		<script type="text/javascript" src="app/modules/contact/contact-drv.js"></script>
+		<script type="text/javascript" src="app/modules/copyright/copyright-drv.js"></script>
+		<script type="text/javascript" src="app/modules/footer/footer-drv.js"></script>
+		<script type="text/javascript" src="app/modules/header/header-drv.js"></script>
+		<script type="text/javascript" src="app/modules/login/login-drv.js"></script>
+		<script type="text/javascript" src="app/modules/nav/nav-drv.js"></script>
+		<script type="text/javascript" src="app/modules/plugin/plugin-srv.js"></script>
+		<script type="text/javascript" src="app/modules/plugin/plugin-ctrl.js"></script>
+		<script type="text/javascript" src="app/modules/plugin/plugin-drv.js"></script>
+		<script type='text/javascript' src='app/modules/resource/resource-config.js'></script>
+		<script type="text/javascript" src="app/modules/row/row-drv.js"></script>
+		<script type="text/javascript" src="app/modules/social/social-drv.js"></script>
+		<script type="text/javascript" src="app/modules/subsection/subsection-drv.js"></script>
+		<!-- Additional Modules -->
+		<script type="text/javascript" src="app/modules/slideshow/slideshow-ctrl.js"></script>
+		<script type="text/javascript" src="app/modules/slides/slides-srv.js"></script>
+		<script type="text/javascript" src="app/modules/slides/slides-ctrl.js"></script>
+		<script type="text/javascript" src="app/modules/slides/slides-drv.js"></script>
+		<script type="text/javascript" src="app/modules/panel/panel-ctrl.js"></script>
+		<script type="text/javascript" src="app/modules/graph/tutorial.js"></script>
+		<script type="text/javascript" src="app/modules/graph/stackedarea-nvd3.js"></script>
+		<!-- Page Scripts -->
+		<script type="text/javascript" src="app/pages/services/services.js"></script>
+		<script type="text/javascript" src="app/pages/services/services-srv.js"></script>
+		<script type="text/javascript" src="app/pages/services/services-ctrl.js"></script>
+	</head>
+	<body>
+		<fxheader></fxheader>
+		<div id="content" class="main full" ng-view></div>
+		<fxfooter></fxfooter>
+	</body>
+</html>
