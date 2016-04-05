@@ -59,7 +59,7 @@
 								"config": {
 									"type": "button",
 									"id": "",
-									"class": "center pad",
+									"class": "cta-button center pad",
 									"size": "",
 									"bg": {
 										"color": "#e57d00",
