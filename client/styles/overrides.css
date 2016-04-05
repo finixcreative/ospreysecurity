@@ -237,7 +237,7 @@ button {
 }
 button:hover {
 	background: #33337f;
-	color: #f52;
+	color: #fff;
 	box-shadow: 0px 1px 1px 1px rgba(0,0,0,0.3);
 }
 button.cta-button {
