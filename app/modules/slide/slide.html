@@ -1,0 +1,34 @@
+<div
+	id="{{content.config.title}}"
+	class="{{content.config.type}} {{content.config.class.outer}} {{content.config.size}}"
+	ng-show="content.config.visible"
+	ng-animate="content.config.animation"
+	ng-swipe-left="next()"
+	ng-swipe-right="prev()"
+	style="
+		background-image:url({{content.config.bg.img}});
+		background-color:{{content.config.bg.color}};
+		background-size:{{content.config.bg.size}};
+		background-repeat:{{content.config.bg.repeat}};
+		background-position:{{content.config.bg.position}};
+		background-attachment:{{content.config.bg.attachment}};
+		background:-webkit-linear-gradient({{content.config.bg.gradient.angle}},{{content.config.bg.gradient.color1}},{{content.config.bg.gradient.color2}});
+		background:-o-linear-gradient({{content.config.bg.gradient.angle}},{{content.config.bg.gradient.color1}},{{content.config.bg.gradient.color2}});
+		background:-moz-linear-gradient({{content.config.bg.gradient.angle}},{{content.config.bg.gradient.color1}},{{content.config.bg.gradient.color2}});
+		background:linear-gradient({{content.config.bg.gradient.angle}},{{content.config.bg.gradient.color1}},{{content.config.bg.gradient.color2}});
+	"
+	parallax-background parallax-ratio="{{content.config.bg.parallax}}"
+>
+	<div
+		class="overlay"
+		style="
+			background-color:{{content.config.bg.color}};
+			opacity:{{content.config.bg.opacity}};
+		"
+	></div>
+	<div class="wrapper">
+		<div class="{{content.config.class.inner}} inner-content full">
+			<hydra></hydra>
+		</div>
+	</div>
+</div>

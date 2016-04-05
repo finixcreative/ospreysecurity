@@ -1,0 +1,14 @@
+<form onsubmit="event.preventDefault()">
+	<select id="date" required>
+		<option value="sun">Sun</option>
+		<option value="mon">Mon</option>
+		<option value="sun">Tue</option>
+		<option value="sun">Wed</option>
+		<option value="sun">Thu</option>
+		<option value="sun">Fri</option>
+		<option value="sun">Sat</option>
+	</select>
+	<input id="point1" type="number" width="40px" min="0" max="100" placeholder="Point 1" required></input>
+	<input id="point2" type="number" width="40px" min="0" max="100" placeholder="Point 2" required></input>
+	<button onclick="addPoints(formData)">Add Points</button>
+</form>

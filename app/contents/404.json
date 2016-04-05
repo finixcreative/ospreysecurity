@@ -1,0 +1,71 @@
+[
+	{
+		"config": {
+			"title": "404",
+			"type": "page"
+		},
+		"contents": [
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "",
+						"inner": "white-txt pad-200-20 center"
+					},
+					"bg": {
+						"img": "https://pixabay.com/static/uploads/photo/2015/05/15/15/00/building-768815_960_720.jpg",
+						"color": "#000",
+						"size": "cover",
+						"repeat": "no-repeat",
+						"position": "",
+						"attachment": "fixed",
+						"opacity": 0.8,
+						"parallax": 0.2
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "h1",
+							"text": "404 Error"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "p",
+							"text": "Oops! The page you were looking for is missing... we're so sorry for the mix-up."
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "pad",
+							"size": "full"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "button",
+									"id": "",
+									"class": "center pad",
+									"size": "",
+									"name": "",
+									"buttontype": "",
+									"value": "",
+									"form": "",
+									"click": "",
+									"text": "Go home",
+									"link": "#/home",
+									"target": ""
+								},
+								"contents": null
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]

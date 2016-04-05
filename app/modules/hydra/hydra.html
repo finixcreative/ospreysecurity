@@ -1,0 +1,7 @@
+<div class="hydra" ng-repeat="content in contents" ng-include="'app/modules/' + content.config.type + '/' + content.config.type + '.html'">
+	<!--
+	HYDRA | Replicating module generates dynamic elements based on page content data.
+	© 2015 Finix, all rights reserved.
+	-->
+	<div ng-include="app/modules/hydra/hydra.html" ng-init="contents = content.contents"></div>
+</div>

@@ -1,0 +1,13 @@
+/* Scope styles */
+#chart svg {height: 400px;}
+/*
+.axis path,
+.axis line {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+.browser text {
+	text-anchor: end;
+}
+*/

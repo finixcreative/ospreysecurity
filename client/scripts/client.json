@@ -1,0 +1,83 @@
+{
+	"meta": {
+		"title": "",
+		"favicon": "client/images/osprey_security-icon.png",
+		"description": "",
+		"keywords": "",
+		"author": "Richard Smith"
+	},
+	"company": "Osprey Security",
+	"type": "",
+	"logo": "client/images/osprey_security-logo.png",
+	"cta": "650-542-9237",
+	"contacts": [
+		{
+			"type": "email",
+			"info": "info@ospreysecurity.com",
+			"method": "mailto:"
+		},
+		{
+			"type": "phone",
+			"info": "650-542-9237",
+			"method": "tel:"
+		}
+	],
+	"locations": [
+		{
+			"address": {
+				"street": "380 Hamilton Ave",
+				"city": "Palo Alto",
+				"state": "CA",
+				"zip": "94301"
+			},
+			"map": "https://www.google.com/maps/place/380+Hamilton+Ave,+Palo+Alto,+CA+94301/@37.4458527,-122.1614107,17z/data=!4m7!1m4!3m3!1s0x808fbb39663aeb8f:0xfad49321d9531e58!2s380+Hamilton+Ave,+Palo+Alto,+CA+94301!3b1!3m1!1s0x808fbb39663aeb8f:0xfad49321d9531e58"
+		}
+	],
+	"socials": [
+		{
+			"name": "facebook",
+			"link": "www.facebook.com",
+			"active": false
+		},
+		{
+			"name": "twitter",
+			"link": "twitter.com/osprey_security",
+			"active": true
+		},
+		{
+			"name": "linkedin",
+			"link": "www.linkedin.com",
+			"active": false
+		},
+		{
+			"name": "google+",
+			"link": "plus.google.com",
+			"active": false
+		},
+		{
+			"name": "youtube",
+			"link": "",
+			"active": false
+		},
+		{
+			"name": "instagram",
+			"link": "www.instagram.com",
+			"active": false
+		},
+		{
+			"name": "pinterest",
+			"link": "www.pinterest.com",
+			"active": false
+		},
+		{
+			"name": "tumblr",
+			"link": "",
+			"active": false
+		},
+		{
+			"name": "yelp",
+			"link": "www.yelp.com",
+			"active": false
+		}
+	]
+}

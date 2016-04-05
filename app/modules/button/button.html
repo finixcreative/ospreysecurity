@@ -1,0 +1,27 @@
+<div class="relative full">
+	<a href="{{content.config.link}}" target="{{content.config.target}}">
+		<button
+			id="{{content.config.id}}"
+			class="{{content.config.class}} {{content.config.size}}"
+			name="{{content.config.name}}"
+			type="{{content.config.buttontype}}"
+			value="{{content.config.value}}"
+			form="{{content.config.form}}"
+			ng-click="content.config.click"
+			style="
+				{
+					background-color:{{content.config.bg.color}};
+					color:{{content.config.txt.color}};
+				}
+				:hover {
+					background-color:{{content.config.bg.hover}};
+					color:{{content.config.txt.hover}};
+				}
+
+			"
+		>
+			{{content.config.text}}
+		</button>
+	</a>
+	<config></config>
+</div>

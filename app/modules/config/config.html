@@ -1,0 +1,9 @@
+<div class="configpanel" ng-show="user && configure">
+	<button class="config" ng-click="edit = !edit">
+		<img src="app/assets/images/icons/icon-edit.png" alt="Edit icon">
+	</button>
+	<form class="config full pad" ng-show="edit" ng-submit="saveChanges()">
+		<div ng-include="'app/modules/config/config-' + content.config.type + '.html'"></div>
+		<button class="margin-top-20" type="submit" ng-click="edit = !edit">Save</button>
+	</form>
+</div>

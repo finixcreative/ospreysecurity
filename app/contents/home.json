@@ -1,0 +1,295 @@
+[
+	{
+		"config": {
+			"title": "home",
+			"type": "page"
+		},
+		"contents": [
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "",
+						"inner": "white-txt center pad-150-20"
+					},
+					"bg": {
+						"img": "http://i.imgur.com/IeVHQ2j.gif",
+						"color": "#201f4e",
+						"size": "cover",
+						"repeat": "no-repeat",
+						"position": "",
+						"attachment": "fixed",
+						"opacity": 0.5,
+						"parallax": 0.2
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "image",
+							"class": "center",
+							"size": "",
+							"src": "client/images/osprey_security-logo.png",
+							"alt": "Osprey Security logo"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "h1",
+							"text": "The next level of Cyber Security"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "p",
+							"text": "Lorem ipsum dolor sit amet, te postulant consetetur mei. An vim nulla malorum. Cu eum populo omittantur. Aliquip dolorem consectetuer eos cu. In quo decore interesset, ea est tantas nonumes."
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "pad",
+							"size": "full"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "button",
+									"id": "",
+									"class": "center pad",
+									"size": "",
+									"bg": {
+										"color": "#e57d00",
+										"hover": "#fbb03b"
+									},
+									"txt": {
+										"color": "#fff",
+										"hover": "#fff"
+									},
+									"name": "",
+									"buttontype": "",
+									"value": "",
+									"form": "",
+									"click": "",
+									"text": "Request demo",
+									"link": "#/signup",
+									"target": ""
+								},
+								"contents": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "",
+						"inner": "pad"
+					},
+					"bg": {
+						"img": "",
+						"color": "#fff",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"parallax": 0
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "block",
+							"class": "center pad",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "h3",
+									"text": "Control attacker movement"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "Lorem ipsum dolor sit amet, qui ex noster eligendi efficiendi, quo legere antiopam ei. Tale oportere at sit, ad cum quas nostrum accusamus."
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "button",
+									"id": "",
+									"class": "center pad",
+									"size": "",
+									"bg": {
+										"color": "#201f4e",
+										"hover": "#33337f"
+									},
+									"txt": {
+										"color": "#fff",
+										"hover": "#fff"
+									},
+									"name": "",
+									"buttontype": "",
+									"value": "",
+									"form": "",
+									"click": "",
+									"text": "Learn more",
+									"link": "#/signup",
+									"target": ""
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "center pad",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "h3",
+									"text": "Mitigate attacks"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "Lorem ipsum dolor sit amet, qui ex noster eligendi efficiendi, quo legere antiopam ei. Tale oportere at sit, ad cum quas nostrum accusamus."
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "button",
+									"id": "",
+									"class": "center pad",
+									"size": "",
+									"bg": {
+										"color": "#201f4e",
+										"hover": "#33337f"
+									},
+									"txt": {
+										"color": "#fff",
+										"hover": "#fff"
+									},
+									"name": "",
+									"buttontype": "",
+									"value": "",
+									"form": "",
+									"click": "",
+									"text": "Learn more",
+									"link": "#/signup",
+									"target": ""
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "center pad",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "h3",
+									"text": "Secure enterprise"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "Lorem ipsum dolor sit amet, qui ex noster eligendi efficiendi, quo legere antiopam ei. Tale oportere at sit, ad cum quas nostrum accusamus."
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "button",
+									"id": "",
+									"class": "center pad",
+									"size": "",
+									"bg": {
+										"color": "#201f4e",
+										"hover": "#33337f"
+									},
+									"txt": {
+										"color": "#fff",
+										"hover": "#fff"
+									},
+									"name": "",
+									"buttontype": "",
+									"value": "",
+									"form": "",
+									"click": "",
+									"text": "Learn more",
+									"link": "#/signup",
+									"target": ""
+								},
+								"contents": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "",
+						"inner": "pad-40-20"
+					},
+					"bg": {
+						"img": "",
+						"color": "#f3f3f3",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"parallax": 0
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "p",
+							"class": "italic",
+							"text": "\"I believe in Osprey Security’s vision for helping secure my organization by harnessing the power of Big Data and Artificial Intelligence and providing my team that predictive and proactive Cyber Security intelligence we have been lacking in our arsenal.\""
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "h4",
+							"text": "- Paul B"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "h5",
+							"text": "Chief Security Officer, Fortune 50 company | Osprey Security Early Adopter Program"
+						},
+						"contents": null
+					}
+				]
+			}
+		]
+	}
+]

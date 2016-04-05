@@ -1,0 +1,15 @@
+<div class="full">
+	<h3>Contact</h3>
+	<p>
+		{{client.company}} {{client.type}}
+	</p>
+	<p ng-repeat="location in client.locations">
+		{{location.address.street}}<br ng-show="location.address.street != ''">
+		{{location.address.city}}, {{location.address.state}} {{location.address.zip}}
+	</p>
+	<p>
+		<span class="full" ng-repeat="contact in client.contacts">
+			<a href="{{contact.method}}{{contact.info}}">{{contact.info}}</a>
+		</span>
+	</p>
+</div>

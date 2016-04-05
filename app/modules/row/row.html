@@ -1,0 +1,33 @@
+<div
+	id="{{content.config.title}}"
+	class="{{content.config.type}} {{content.config.class.outer}} full"
+	style="
+		background-image:url({{content.config.bg.img}});
+		background-color:{{content.config.bg.color}};
+		background-size:{{content.config.bg.size}};
+		background-repeat:{{content.config.bg.repeat}};
+		background-position:{{content.config.bg.position}};
+		background-attachment:{{content.config.bg.attachment}};
+		background:-webkit-linear-gradient({{content.config.bg.gradient.angle}},{{content.config.bg.gradient.color1}},{{content.config.bg.gradient.color2}});
+		background:-o-linear-gradient({{content.config.bg.gradient.angle}},{{content.config.bg.gradient.color1}},{{content.config.bg.gradient.color2}});
+		background:-moz-linear-gradient({{content.config.bg.gradient.angle}},{{content.config.bg.gradient.color1}},{{content.config.bg.gradient.color2}});
+		background:linear-gradient({{content.config.bg.gradient.angle}},{{content.config.bg.gradient.color1}},{{content.config.bg.gradient.color2}});
+	"
+	parallax-background parallax-ratio="{{content.config.bg.parallax}}"
+>
+	<div
+		class="overlay"
+		style="
+			background-color:{{content.config.bg.color}};
+			opacity:{{content.config.bg.opacity}};
+		"
+	></div>
+	<div class="wrapper inner-content">
+		<div class="{{content.config.class.inner}} full">
+			<hydra></hydra>
+		</div>
+	</div>
+	<div class="controls center full" ng-show="user && configure">
+		<a href ng-click="" class="add-section pad">+</a>
+	</div>
+</div>

@@ -1,0 +1,19 @@
+<div
+	id="{{content.config.title}}"
+	class="{{content.config.type}} {{content.config.class}} {{content.config.size}}"
+	style="background-color:{{content.config.bg.color}};"
+	ng-controller="SlideshowController"
+>
+	<hydra></hydra>
+	<button id="prev" class="slidenav" ng-click="prev()">
+		<img class="slideshow-icon position-left" src="app/assets/images/icons/icon_arrow_left.png" alt="Previous">
+		<span class="icon-arrow_left"></span>
+	</button>
+	<button id="next" class="slidenav" ng-click="next()">
+		<img class="slideshow-icon position-right" src="app/assets/images/icons/icon_arrow_right.png" alt="Next">
+		<span class="icon-arrow_right"></span>
+	</button>
+	<div class="controls center full" ng-show="user && configure">
+		<a href ng-click="" class="add-section pad">+</a>
+	</div>
+</div>
