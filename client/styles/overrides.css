@@ -224,8 +224,8 @@ select {
 	font-size: 16px;
 }
 button {
-	background: #fff;
-	color: #444;
+	background: #201f4e;
+	color: #fff;
 	border: 0;
 	border-radius: 0;
 	font-size: 1em;
@@ -236,6 +236,7 @@ button {
 	transition: all .3s ease-in;
 }
 button:hover {
+	background: #33337f;
 	color: #f52;
 	box-shadow: 0px 1px 1px 1px rgba(0,0,0,0.3);
 }
