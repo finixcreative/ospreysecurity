@@ -1,5 +1,5 @@
-$(function() {
-	// var mainbottom = $('#main').offset().top + $('#main').height();
+// var mainbottom = $('#main').offset().top + $('#main').height();
+function(){
 	$(window).on('scroll',function(){
 		distance = Math.round($(window).scrollTop());
 		if (distance > 0) {
@@ -8,8 +8,7 @@ $(function() {
 			$('header').removeClass('white-bg');
 		}
 	});
-});
-
+};
 /*
 window.onscroll = function(){
 	headerScroll();
