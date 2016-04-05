@@ -1,3 +1,16 @@
+$(function() {
+	// var mainbottom = $('#main').offset().top + $('#main').height();
+	$(window).on('scroll',function(){
+		distance = Math.round($(window).scrollTop());
+		if (distance > 1) {
+			$('header').addClass('white-bg');
+		} else {
+			$('header').removeClass('white-bg');
+		}
+	});
+});
+
+/*
 window.onscroll = function(){
 	headerScroll();
 };
@@ -8,3 +21,4 @@ function headerScroll(){
 		document.getElementsByTagName("header").className = "";
 	}
 };
+*/
