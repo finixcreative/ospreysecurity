@@ -1,5 +1,5 @@
 // var mainbottom = $('#main').offset().top + $('#main').height();
-function(){
+function headerScroll(){
 	$(window).on('scroll',function(){
 		distance = Math.round($(window).scrollTop());
 		if (distance > 0) {
