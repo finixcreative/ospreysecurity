@@ -271,6 +271,12 @@ header nav a {
 header nav li a:hover {
 	color: #fff;
 }
+nav ul li a:hover,
+nav ul li a.active,
+nav ul li a:active,
+nav ul li a:focus {
+	color: #fff;
+}
 header nav li ul.menu {
 	width: 100%;
 	position: fixed;
