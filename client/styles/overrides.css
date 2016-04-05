@@ -236,11 +236,11 @@ button:hover {
 	color: #f52;
 	box-shadow: 0px 1px 1px 1px rgba(0,0,0,0.3);
 }
-button .cta-button {
+button.cta-button {
 	background: #e57d00;
 	color: #fff;
 }
-button .cta-button:hover {
+button.cta-button:hover {
 	background: #fbb03b;
 	color: #fff;
 }
