@@ -111,6 +111,16 @@
 						"contents": [
 							{
 								"config": {
+									"type": "image",
+									"class": "center",
+									"size": "",
+									"src": "client/images/icons/movement.png",
+									"alt": "Control attacker movement icon"
+								},
+								"contents": null
+							},
+							{
+								"config": {
 									"type": "h3",
 									"text": "Control attacker movement"
 								},
@@ -159,6 +169,16 @@
 						"contents": [
 							{
 								"config": {
+									"type": "image",
+									"class": "center",
+									"size": "",
+									"src": "client/images/icons/attacks.png",
+									"alt": "Mitigate attacks icon"
+								},
+								"contents": null
+							},
+							{
+								"config": {
 									"type": "h3",
 									"text": "Mitigate attacks"
 								},
@@ -205,6 +225,16 @@
 							"size": "third"
 						},
 						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "center",
+									"size": "",
+									"src": "client/images/icons/enterprise.png",
+									"alt": "Secure enterprise icon"
+								},
+								"contents": null
+							},
 							{
 								"config": {
 									"type": "h3",
