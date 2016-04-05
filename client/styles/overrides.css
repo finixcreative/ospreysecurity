@@ -234,8 +234,8 @@ button:hover {
 	box-shadow: 0px 1px 1px 1px rgba(0,0,0,0.3);
 }
 header {
+	background: rgba(0,0,0,0.5);
 	border: none;
-	position: fixed;
 }
 header nav ul {
 	width: auto;
@@ -249,6 +249,7 @@ header nav li {
 	float: left;
 }
 header nav a {
+	color: #eee;
 	height: 80px;
 	padding: 20px;
 	font-size: 20px;
@@ -258,8 +259,7 @@ header nav a {
 	display: block;
 }
 header nav li a:hover {
-	color: #f52;
-	border-bottom: 4px solid #f52;
+	color: #fff;
 }
 header nav li ul.menu {
 	width: 100%;
