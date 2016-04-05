@@ -3,7 +3,7 @@ angular.module("coreMod")
 		function headerScroll(){
 			$(window).on('scroll',function(){
 				distance = Math.round($(window).scrollTop());
-				if (distance > 0) {
+				if (distance > 200) {
 					$('header').addClass('white-bg');
 				} else {
 					$('header').removeClass('white-bg');

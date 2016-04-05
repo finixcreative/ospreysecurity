@@ -60,7 +60,7 @@ Dark Gray	     | #222
 .white-bg a,
 .lightgray-bg a,
 .midgray-bg a {
-	color: #0387ab;
+	color: #201f4e;
 }
 .darkgray-bg > a {
 	color: #fff;
@@ -69,7 +69,7 @@ Dark Gray	     | #222
 .lightgray-bg a:hover,
 .midgray-bg a:hover,
 .darkgray-bg a:hover {
-	color: #75bbce;
+	color: #33337f;
 }
 .white-bg p a,
 .lightgray-bg p a,
@@ -400,38 +400,6 @@ header nav li ul.menu li a:hover {
 }
 .invisible {
 	display: none;
-}
-.hero {
-	background-color: #222;
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	color: #fff;
-	text-shadow: 0 0 10px rgba(0,0,0,0.1);
-}
-.hero p {
-	font-weight: 400;
-}
-.hero.home {
-	background-image: url("../images/backgrounds/bg-circuit_boards.jpg");
-}
-.hero.solutions {
-	background-image: url("../images/backgrounds/background-solutions-2.jpg");
-}
-.hero.pricing {
-	background-image: url("../images/backgrounds/money.jpg");
-}
-.hero.markets {
-	background-image: url("../images/backgrounds/background-markets-2.jpg");
-}
-.hero.technology {
-	background-image: url("../images/backgrounds/background-technology-2.jpg");
-}
-.hero.company {
-	background-image: url("../images/backgrounds/background-company-2.jpg");
-}
-.hero.careers {
-	background-image: url("../images/backgrounds/background-careers-2.jpg");
 }
 .hero .button,
 .button-body {
