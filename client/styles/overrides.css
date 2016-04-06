@@ -557,7 +557,8 @@ table {
 	z-index: 5;
 }
 .client-logo {
-	max-width: 25%;
+	max-width: 33.33%;
+	max-width: calc(100% / 3);
 }
 .client-logo img {
 	width: 100%;
