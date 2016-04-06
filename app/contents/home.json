@@ -283,7 +283,7 @@
 					"type": "row",
 					"class": {
 						"outer": "",
-						"inner": "pad"
+						"inner": ""
 					},
 					"bg": {
 						"img": "",
@@ -299,6 +299,22 @@
 					{
 						"config": {
 							"type": "block",
+							"class": "white-txt center pad",
+							"size": "full"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "h3",
+									"text": "Who we've worked with"
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
 							"class": "client-logo center pad",
 							"size": "eigth"
 						},
@@ -308,7 +324,7 @@
 									"type": "image",
 									"class": "",
 									"size": "",
-									"src": "client/images/clients/.png",
+									"src": "client/images/clients/client_logo_chevron.png",
 									"alt": ""
 								},
 								"contents": null
@@ -327,7 +343,7 @@
 									"type": "image",
 									"class": "",
 									"size": "",
-									"src": "client/images/clients/.png",
+									"src": "client/images/clients/client_logo_google.png",
 									"alt": ""
 								},
 								"contents": null
@@ -346,7 +362,7 @@
 									"type": "image",
 									"class": "",
 									"size": "",
-									"src": "client/images/clients/.png",
+									"src": "client/images/clients/client_logo_progressive.png",
 									"alt": ""
 								},
 								"contents": null
@@ -365,7 +381,7 @@
 									"type": "image",
 									"class": "",
 									"size": "",
-									"src": "client/images/clients/.png",
+									"src": "client/images/clients/client_logo_shell.png",
 									"alt": ""
 								},
 								"contents": null
@@ -384,7 +400,7 @@
 									"type": "image",
 									"class": "",
 									"size": "",
-									"src": "client/images/clients/.png",
+									"src": "client/images/clients/client_logo_vise.png",
 									"alt": ""
 								},
 								"contents": null
@@ -403,45 +419,7 @@
 									"type": "image",
 									"class": "",
 									"size": "",
-									"src": "client/images/clients/.png",
-									"alt": ""
-								},
-								"contents": null
-							}
-						]
-					},
-					{
-						"config": {
-							"type": "block",
-							"class": "client-logo center pad",
-							"size": "eigth"
-						},
-						"contents": [
-							{
-								"config": {
-									"type": "image",
-									"class": "",
-									"size": "",
-									"src": "client/images/clients/.png",
-									"alt": ""
-								},
-								"contents": null
-							}
-						]
-					},
-					{
-						"config": {
-							"type": "block",
-							"class": "client-logo center pad",
-							"size": "eigth"
-						},
-						"contents": [
-							{
-								"config": {
-									"type": "image",
-									"class": "",
-									"size": "",
-									"src": "client/images/clients/.png",
+									"src": "client/images/clients/client_logo_waste_management.png",
 									"alt": ""
 								},
 								"contents": null
