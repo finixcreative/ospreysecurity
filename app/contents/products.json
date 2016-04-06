@@ -152,7 +152,7 @@
 									"value": "",
 									"form": "",
 									"click": "",
-									"text": "Learn more",
+									"text": "Buy now",
 									"link": "#/signup",
 									"target": ""
 								},
@@ -172,8 +172,8 @@
 									"type": "image",
 									"class": "center osprey-icon",
 									"size": "",
-									"src": "client/images/icons/attacks.png",
-									"alt": "Mitigate attacks icon"
+									"src": "client/images/icons/threat-intelligence.png",
+									"alt": "Threat Intelligence icon"
 								},
 								"contents": null
 							},
@@ -230,15 +230,15 @@
 									"type": "image",
 									"class": "center osprey-icon",
 									"size": "",
-									"src": "client/images/icons/enterprise.png",
-									"alt": "Secure enterprise icon"
+									"src": "client/images/icons/endpoint-security.png",
+									"alt": "Endpoint Security icon"
 								},
 								"contents": null
 							},
 							{
 								"config": {
 									"type": "h3",
-									"text": "Secure enterprise"
+									"text": "Endpoint Security"
 								},
 								"contents": null
 							},
