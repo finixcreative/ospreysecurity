@@ -438,7 +438,7 @@
 					"type": "row",
 					"class": {
 						"outer": "",
-						"inner": "pad-40-20"
+						"inner": "pad-20-0"
 					},
 					"bg": {
 						"img": "",
@@ -453,25 +453,53 @@
 				"contents": [
 					{
 						"config": {
-							"type": "p",
-							"class": "italic",
-							"text": "\"I believe in Osprey Security’s vision for helping secure my organization by harnessing the power of Big Data and Artificial Intelligence and providing my team that predictive and proactive Cyber Security intelligence we have been lacking in our arsenal.\""
+							"type": "block",
+							"class": "pad",
+							"size": "third"
 						},
-						"contents": null
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "",
+									"size": "full",
+									"src": "client/images/osprey_security-badge.png",
+									"alt": "Early adopter program"
+								},
+								"contents": null
+							}
+						]
 					},
 					{
 						"config": {
-							"type": "h4",
-							"text": "- Paul B"
+							"type": "block",
+							"class": "pad",
+							"size": "twothird"
 						},
-						"contents": null
-					},
-					{
-						"config": {
-							"type": "h5",
-							"text": "Chief Security Officer, Fortune 50 company | Osprey Security Early Adopter Program"
-						},
-						"contents": null
+						"contents": [
+							{
+								"config": {
+									"type": "p",
+									"class": "italic",
+									"text": "\"I believe in Osprey Security’s vision for helping secure my organization by harnessing the power of Big Data and Artificial Intelligence and providing my team that predictive and proactive Cyber Security intelligence we have been lacking in our arsenal.\""
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h4",
+									"text": "- Paul B"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h5",
+									"text": "Chief Security Officer, Fortune 50 company | Osprey Security Early Adopter Program"
+								},
+								"contents": null
+							}
+						]
 					}
 				]
 			}
