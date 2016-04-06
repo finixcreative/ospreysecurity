@@ -34,7 +34,7 @@
 					{
 						"config": {
 							"type": "p",
-							"text": "Osprey Security is transforming the way companies manage cyber threats by providing actionable intelligence on security risks."
+							"text": "Our product uses empirical data driven methods to provide unmatched insight into emerging threats and help organizations address them before they can be exploited causing an incident."
 						},
 						"contents": null
 					}
@@ -229,6 +229,249 @@
 									"target": ""
 								},
 								"contents": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "pad-40-0",
+						"inner": "center"
+					},
+					"bg": {
+						"img": "",
+						"color": "#eee",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"parallax": 0
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "h3",
+							"text": "Pricing"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "pad",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "block",
+									"class": "primary-bg pad",
+									"size": "full"
+								},
+								"contents": [
+									{
+										"config": {
+											"type": "h4",
+											"text": "Basic"
+										},
+										"contents": null
+									}
+								]
+							}
+							{
+								"config": {
+									"type": "block",
+									"class": "pad",
+									"size": "full"
+								},
+								"contents": [
+									{
+										"config": {
+											"type": "p",
+											"text": "10 Users"
+										},
+										"contents": null
+									},
+									{
+										"config": {
+											"type": "p",
+											"text": "Basic Reports"
+										},
+										"contents": null
+									},
+									{
+										"config": {
+											"type": "p",
+											"text": "Ticket Support"
+										},
+										"contents": null
+									},
+									{
+										"config": {
+											"type": "button",
+											"id": "",
+											"class": "center pad",
+											"size": "",
+											"name": "",
+											"buttontype": "",
+											"value": "",
+											"form": "",
+											"click": "",
+											"text": "Contact us",
+											"link": "#/contact",
+											"target": ""
+										},
+										"contents": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "pad",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "block",
+									"class": "primary-bg pad",
+									"size": "full"
+								},
+								"contents": [
+									{
+										"config": {
+											"type": "h4",
+											"text": "Standard"
+										},
+										"contents": null
+									}
+								]
+							}
+							{
+								"config": {
+									"type": "block",
+									"class": "pad",
+									"size": "full"
+								},
+								"contents": [
+									{
+										"config": {
+											"type": "p",
+											"text": "1K Users"
+										},
+										"contents": null
+									},
+									{
+										"config": {
+											"type": "p",
+											"text": "Advanced Reports"
+										},
+										"contents": null
+									},
+									{
+										"config": {
+											"type": "p",
+											"text": "Forum Support"
+										},
+										"contents": null
+									},
+									{
+										"config": {
+											"type": "button",
+											"id": "",
+											"class": "center pad",
+											"size": "",
+											"name": "",
+											"buttontype": "",
+											"value": "",
+											"form": "",
+											"click": "",
+											"text": "Contact us",
+											"link": "#/contact",
+											"target": ""
+										},
+										"contents": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "pad",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "block",
+									"class": "primary-bg pad",
+									"size": "full"
+								},
+								"contents": [
+									{
+										"config": {
+											"type": "h4",
+											"text": "Professional"
+										},
+										"contents": null
+									}
+								]
+							}
+							{
+								"config": {
+									"type": "block",
+									"class": "pad",
+									"size": "full"
+								},
+								"contents": [
+									{
+										"config": {
+											"type": "p",
+											"text": "Unlimited Users"
+										},
+										"contents": null
+									},
+									{
+										"config": {
+											"type": "p",
+											"text": "Advanced Reports"
+										},
+										"contents": null
+									},
+									{
+										"config": {
+											"type": "p",
+											"text": "Forum & Ticket Support"
+										},
+										"contents": null
+									},
+									{
+										"config": {
+											"type": "button",
+											"id": "",
+											"class": "center pad",
+											"size": "",
+											"name": "",
+											"buttontype": "",
+											"value": "",
+											"form": "",
+											"click": "",
+											"text": "Contact us",
+											"link": "#/contact",
+											"target": ""
+										},
+										"contents": null
+									}
+								]
 							}
 						]
 					}
