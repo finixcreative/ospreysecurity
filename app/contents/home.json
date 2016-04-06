@@ -297,6 +297,7 @@
 							"color1": "#201f4e",
 							"color2": "#33337f"
 						},
+						"opacity": 0,
 						"parallax": 0
 					}
 				},
