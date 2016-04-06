@@ -13,7 +13,7 @@
 						"inner": "white-txt center pad-200-20-120"
 					},
 					"bg": {
-						"img": "http://i.imgur.com/IeVHQ2j.gif",
+						"img": "http://i.imgur.com/OqwF58V.gif",
 						"color": "#201f4e",
 						"size": "cover",
 						"repeat": "no-repeat",
@@ -37,40 +37,6 @@
 							"text": "Osprey Security is transforming the way companies manage cyber threats by providing actionable intelligence on security risks."
 						},
 						"contents": null
-					},
-					{
-						"config": {
-							"type": "block",
-							"class": "pad",
-							"size": "full"
-						},
-						"contents": [
-							{
-								"config": {
-									"type": "button",
-									"id": "",
-									"class": "cta-button center pad",
-									"size": "",
-									"bg": {
-										"color": "#e57d00",
-										"hover": "#fbb03b"
-									},
-									"txt": {
-										"color": "#fff",
-										"hover": "#fff"
-									},
-									"name": "",
-									"buttontype": "",
-									"value": "",
-									"form": "",
-									"click": "",
-									"text": "Request demo",
-									"link": "#/signup",
-									"target": ""
-								},
-								"contents": null
-							}
-						]
 					}
 				]
 			},
