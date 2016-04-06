@@ -292,6 +292,11 @@
 						"repeat": "",
 						"position": "",
 						"attachment": "",
+						"gradient": {
+							"angle": "180deg",
+							"color1": "#201f4e",
+							"color2": "#33337f"
+						},
 						"parallax": 0
 					}
 				},
