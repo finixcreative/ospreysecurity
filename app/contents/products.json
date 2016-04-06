@@ -26,18 +26,8 @@
 				"contents": [
 					{
 						"config": {
-							"type": "image",
-							"class": "center",
-							"size": "",
-							"src": "client/images/osprey_security-logo.png",
-							"alt": "Osprey Security logo"
-						},
-						"contents": null
-					},
-					{
-						"config": {
 							"type": "h1",
-							"text": "The next level of Cyber Security"
+							"text": "Products"
 						},
 						"contents": null
 					},
