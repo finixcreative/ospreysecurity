@@ -85,7 +85,7 @@
 							{
 								"config": {
 									"type": "p",
-									"text": "Lorem ipsum dolor sit amet, qui ex noster eligendi efficiendi, quo legere antiopam ei. Tale oportere at sit, ad cum quas nostrum accusamus."
+									"text": "Osprey Risk Intelligence and Compliance (ORIC) platform helps orgs manage their Governance, Risk, and Compliance needs. It harnesses cutting edge natural language search techniques, unified compliance framework, and quantitative risk models to determine an organizations risk and compliance posture."
 								},
 								"contents": null
 							},
@@ -143,7 +143,7 @@
 							{
 								"config": {
 									"type": "p",
-									"text": "Lorem ipsum dolor sit amet, qui ex noster eligendi efficiendi, quo legere antiopam ei. Tale oportere at sit, ad cum quas nostrum accusamus."
+									"text": "Osprey Threat Intelligence Platform (INTEL) generates its own indicators of compromise from endpoint modules and converges threat feeds from various sources. Through breakthrough AI models it provides predictive security intelligence, breach prevention, and response capabilities."
 								},
 								"contents": null
 							},
@@ -201,7 +201,7 @@
 							{
 								"config": {
 									"type": "p",
-									"text": "Lorem ipsum dolor sit amet, qui ex noster eligendi efficiendi, quo legere antiopam ei. Tale oportere at sit, ad cum quas nostrum accusamus."
+									"text": "Osprey Industrial Control Systems (ICS) platform identifies vulnerabilities and tests defenses against techniques most likely used by attackers against Process Control Networks and critical infrastructure (e.g. oil, gas, pharma, telco, energy) and provide actionable intelligence for remediation."
 								},
 								"contents": null
 							},
