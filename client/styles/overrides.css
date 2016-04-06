@@ -66,9 +66,21 @@ Dark Gray	     | #222
 	color: #fff;
 }
 .white-bg a:hover,
+.white-bg a.active,
+.white-bg a:active,
+.white-bg a:focus,
 .lightgray-bg a:hover,
+.lightgray-bg a.active,
+.lightgray-bg a:active,
+.lightgray-bg a:focus,
 .midgray-bg a:hover,
-.darkgray-bg a:hover {
+.midgray-bg a.active,
+.midgray-bg a:active,
+.midgray-bg a:focus,
+.darkgray-bg a:hover,
+.darkgray-bg a.active,
+.darkgray-bg a:active,
+.darkgray-bg a:focus {
 	color: #33337f;
 }
 .white-bg p a,
