@@ -269,7 +269,7 @@
 							{
 								"config": {
 									"type": "block",
-									"class": "primary-bg pad",
+									"class": "primary-bg white-txt pad",
 									"size": "full"
 								},
 								"contents": [
@@ -285,7 +285,7 @@
 							{
 								"config": {
 									"type": "block",
-									"class": "pad",
+									"class": "white-bg pad",
 									"size": "full"
 								},
 								"contents": [
@@ -341,7 +341,7 @@
 							{
 								"config": {
 									"type": "block",
-									"class": "primary-bg pad",
+									"class": "primary-bg white-txt pad",
 									"size": "full"
 								},
 								"contents": [
@@ -357,7 +357,7 @@
 							{
 								"config": {
 									"type": "block",
-									"class": "pad",
+									"class": "white-bg pad",
 									"size": "full"
 								},
 								"contents": [
@@ -413,7 +413,7 @@
 							{
 								"config": {
 									"type": "block",
-									"class": "primary-bg pad",
+									"class": "primary-bg white-txt pad",
 									"size": "full"
 								},
 								"contents": [
@@ -429,7 +429,7 @@
 							{
 								"config": {
 									"type": "block",
-									"class": "pad",
+									"class": "white-bg pad",
 									"size": "full"
 								},
 								"contents": [
