@@ -1,0 +1,283 @@
+[
+	{
+		"config": {
+			"title": "home",
+			"type": "page"
+		},
+		"contents": [
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "",
+						"inner": "white-txt center pad-200-20-120"
+					},
+					"bg": {
+						"img": "http://i.imgur.com/IeVHQ2j.gif",
+						"color": "#201f4e",
+						"size": "cover",
+						"repeat": "no-repeat",
+						"position": "",
+						"attachment": "fixed",
+						"opacity": 0.5,
+						"parallax": 0.2
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "image",
+							"class": "center",
+							"size": "",
+							"src": "client/images/osprey_security-logo.png",
+							"alt": "Osprey Security logo"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "h1",
+							"text": "The next level of Cyber Security"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "p",
+							"text": "Osprey Security is transforming the way companies manage cyber threats by providing actionable intelligence on security risks."
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "pad",
+							"size": "full"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "button",
+									"id": "",
+									"class": "cta-button center pad",
+									"size": "",
+									"bg": {
+										"color": "#e57d00",
+										"hover": "#fbb03b"
+									},
+									"txt": {
+										"color": "#fff",
+										"hover": "#fff"
+									},
+									"name": "",
+									"buttontype": "",
+									"value": "",
+									"form": "",
+									"click": "",
+									"text": "Request demo",
+									"link": "#/signup",
+									"target": ""
+								},
+								"contents": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "pad-40-0",
+						"inner": ""
+					},
+					"bg": {
+						"img": "",
+						"color": "#fff",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"parallax": 0
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "block",
+							"class": "center pad",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "center osprey-icon",
+									"size": "",
+									"src": "client/images/icons/risk-intelligence.png",
+									"alt": "Risk Intelligence icon"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h3",
+									"text": "Risk Intelligence"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "Lorem ipsum dolor sit amet, qui ex noster eligendi efficiendi, quo legere antiopam ei. Tale oportere at sit, ad cum quas nostrum accusamus."
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "button",
+									"id": "",
+									"class": "center pad",
+									"size": "",
+									"bg": {
+										"color": "#201f4e",
+										"hover": "#33337f"
+									},
+									"txt": {
+										"color": "#fff",
+										"hover": "#fff"
+									},
+									"name": "",
+									"buttontype": "",
+									"value": "",
+									"form": "",
+									"click": "",
+									"text": "Learn more",
+									"link": "#/signup",
+									"target": ""
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "center pad",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "center osprey-icon",
+									"size": "",
+									"src": "client/images/icons/attacks.png",
+									"alt": "Mitigate attacks icon"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h3",
+									"text": "Threat Intelligence"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "Lorem ipsum dolor sit amet, qui ex noster eligendi efficiendi, quo legere antiopam ei. Tale oportere at sit, ad cum quas nostrum accusamus."
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "button",
+									"id": "",
+									"class": "center pad",
+									"size": "",
+									"bg": {
+										"color": "#201f4e",
+										"hover": "#33337f"
+									},
+									"txt": {
+										"color": "#fff",
+										"hover": "#fff"
+									},
+									"name": "",
+									"buttontype": "",
+									"value": "",
+									"form": "",
+									"click": "",
+									"text": "Learn more",
+									"link": "#/signup",
+									"target": ""
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "center pad",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "center osprey-icon",
+									"size": "",
+									"src": "client/images/icons/enterprise.png",
+									"alt": "Secure enterprise icon"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h3",
+									"text": "Secure enterprise"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "Lorem ipsum dolor sit amet, qui ex noster eligendi efficiendi, quo legere antiopam ei. Tale oportere at sit, ad cum quas nostrum accusamus."
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "button",
+									"id": "",
+									"class": "center pad",
+									"size": "",
+									"bg": {
+										"color": "#201f4e",
+										"hover": "#33337f"
+									},
+									"txt": {
+										"color": "#fff",
+										"hover": "#fff"
+									},
+									"name": "",
+									"buttontype": "",
+									"value": "",
+									"form": "",
+									"click": "",
+									"text": "Learn more",
+									"link": "#/signup",
+									"target": ""
+								},
+								"contents": null
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]
