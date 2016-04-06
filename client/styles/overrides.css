@@ -249,7 +249,7 @@ button.cta-button:hover {
 	color: #fff;
 }
 header {
-	background: rgba(0,0,0,0.5);
+	background: rgba(0,0,0,0.25);
 	border: none;
 }
 header nav ul {
