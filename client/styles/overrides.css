@@ -556,6 +556,13 @@ table {
 	left: calc(50% - 50px);
 	z-index: 5;
 }
+.client-logo {
+	max-width: 25%;
+}
+.client-logo img {
+	width: 100%;
+	max-width: 100px;
+}
 .inline-icon {
 	width: auto;
 	height: 1.5em;

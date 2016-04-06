@@ -283,6 +283,178 @@
 					"type": "row",
 					"class": {
 						"outer": "",
+						"inner": "pad"
+					},
+					"bg": {
+						"img": "",
+						"color": "#201f4e",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"parallax": 0
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "block",
+							"class": "client-logo center pad",
+							"size": "eigth"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "",
+									"size": "",
+									"src": "client/images/clients/.png",
+									"alt": ""
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "client-logo center pad",
+							"size": "eigth"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "",
+									"size": "",
+									"src": "client/images/clients/.png",
+									"alt": ""
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "client-logo center pad",
+							"size": "eigth"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "",
+									"size": "",
+									"src": "client/images/clients/.png",
+									"alt": ""
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "client-logo center pad",
+							"size": "eigth"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "",
+									"size": "",
+									"src": "client/images/clients/.png",
+									"alt": ""
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "client-logo center pad",
+							"size": "eigth"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "",
+									"size": "",
+									"src": "client/images/clients/.png",
+									"alt": ""
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "client-logo center pad",
+							"size": "eigth"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "",
+									"size": "",
+									"src": "client/images/clients/.png",
+									"alt": ""
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "client-logo center pad",
+							"size": "eigth"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "",
+									"size": "",
+									"src": "client/images/clients/.png",
+									"alt": ""
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "client-logo center pad",
+							"size": "eigth"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "",
+									"size": "",
+									"src": "client/images/clients/.png",
+									"alt": ""
+								},
+								"contents": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "",
 						"inner": "pad-40-20"
 					},
 					"bg": {
