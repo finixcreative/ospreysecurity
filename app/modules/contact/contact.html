@@ -4,8 +4,14 @@
 		{{client.company}} {{client.type}}
 	</p>
 	<p ng-repeat="location in client.locations">
-		{{location.address.street}}<br ng-show="location.address.street != ''">
-		{{location.address.city}}, {{location.address.state}} {{location.address.zip}}
+		<a href="{{location.map}}" ng-show="location.map != ''">
+			{{location.address.street}}<br ng-show="location.address.street != ''">
+			{{location.address.city}}, {{location.address.state}} {{location.address.zip}}
+		</a>
+		<span ng-hide="location.map != ''">
+			{{location.address.street}}<br ng-show="location.address.street != ''">
+			{{location.address.city}}, {{location.address.state}} {{location.address.zip}}
+		</span>
 	</p>
 	<p>
 		<span class="full" ng-repeat="contact in client.contacts">
