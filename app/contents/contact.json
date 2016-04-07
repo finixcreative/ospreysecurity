@@ -60,7 +60,7 @@
 						"config": {
 							"type": "block",
 							"size": "half",
-							"class": "pad",
+							"class": "pad"
 						},
 						"contents": [
 							{
@@ -99,7 +99,7 @@
 						"config": {
 							"type": "block",
 							"size": "half",
-							"class": "pad",
+							"class": "pad"
 						},
 						"contents": []
 					}
