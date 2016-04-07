@@ -81,17 +81,26 @@
 									},
 									{
 										"config": {
-											"type": "h4",
-											"text": "Rohit Anabheri"
+											"type": "block",
+											"size": "full",
+											"class": "pad"
 										},
-										"contents": null
-									},
-									{
-										"config": {
-											"type": "h5",
-											"text": "Co-Founder"
-										},
-										"contents": null
+										"contents": [
+											{
+												"config": {
+													"type": "h4",
+													"text": "Rohit Anabheri"
+												},
+												"contents": null
+											},
+											{
+												"config": {
+													"type": "h5",
+													"text": "Co-Founder"
+												},
+												"contents": null
+											}
+										]
 									}
 								]
 							}
@@ -122,17 +131,26 @@
 									},
 									{
 										"config": {
-											"type": "h4",
-											"text": "Ajit Gaddam"
+											"type": "block",
+											"size": "full",
+											"class": "pad"
 										},
-										"contents": null
-									},
-									{
-										"config": {
-											"type": "h5",
-											"text": "Co-Founder"
-										},
-										"contents": null
+										"contents": [
+											{
+												"config": {
+													"type": "h4",
+													"text": "Ajit Gaddam"
+												},
+												"contents": null
+											},
+											{
+												"config": {
+													"type": "h5",
+													"text": "Co-Founder"
+												},
+												"contents": null
+											}
+										]
 									}
 								]
 							}
@@ -163,17 +181,26 @@
 									},
 									{
 										"config": {
-											"type": "h4",
-											"text": "Jason Walkow"
+											"type": "block",
+											"size": "full",
+											"class": "pad"
 										},
-										"contents": null
-									},
-									{
-										"config": {
-											"type": "h5",
-											"text": "UI/UX Developer"
-										},
-										"contents": null
+										"contents": [
+											{
+												"config": {
+													"type": "h4",
+													"text": "Jason Walkow"
+												},
+												"contents": null
+											},
+											{
+												"config": {
+													"type": "h5",
+													"text": "UI/UX Developer"
+												},
+												"contents": null
+											}
+										]
 									}
 								]
 							}
