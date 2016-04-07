@@ -65,6 +65,71 @@
 						"contents": [
 							{
 								"config": {
+									"type": "form",
+									"size": "full",
+									"class": "pad",
+									"action": "",
+									"method": ""
+								},
+								"contents": [
+									{
+										"config": {
+											"type": "input",
+											"class": "",
+											"size": "full",
+											"input": "text",
+											"name": "name",
+											"value": "Name"
+										},
+										"contents": null
+									},
+									{
+										"config": {
+											"type": "input",
+											"class": "",
+											"size": "full",
+											"input": "email",
+											"name": "email",
+											"value": "Email"
+										},
+										"contents": null
+									},
+									{
+										"config": {
+											"type": "input",
+											"class": "",
+											"size": "full",
+											"input": "text",
+											"name": "subject",
+											"value": "Subject"
+										},
+										"contents": null
+									},
+									{
+										"config": {
+											"type": "textarea",
+											"class": "",
+											"size": "full",
+											"name": "message",
+											"rows": "4",
+											"cols": "",
+											"placeholder": "Enter your message"
+										},
+										"contents": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"size": "half",
+							"class": "pad"
+						},
+						"contents": [
+							{
+								"config": {
 									"type": "block",
 									"size": "full",
 									"class": "primary-bg white-txt pad"
@@ -94,14 +159,6 @@
 								]
 							}
 						]
-					},
-					{
-						"config": {
-							"type": "block",
-							"size": "half",
-							"class": "pad"
-						},
-						"contents": []
 					}
 				]
 			}
