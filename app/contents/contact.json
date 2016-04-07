@@ -79,7 +79,8 @@
 											"size": "full",
 											"input": "text",
 											"name": "name",
-											"value": "Name"
+											"value": "",
+											"placeholder": "Name"
 										},
 										"contents": null
 									},
@@ -90,7 +91,8 @@
 											"size": "full",
 											"input": "email",
 											"name": "email",
-											"value": "Email"
+											"value": "",
+											"placeholder": "Name"
 										},
 										"contents": null
 									},
@@ -101,7 +103,8 @@
 											"size": "full",
 											"input": "text",
 											"name": "subject",
-											"value": "Subject"
+											"value": "",
+											"placeholder": "Name"
 										},
 										"contents": null
 									},
