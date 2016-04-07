@@ -1,4 +1,4 @@
 <label class="{{content.config.class}} {{content.config.size}}">
-	{{content.config.value}}<br>
-	<textarea class="full" name="{{content.config.name}}" rows="" cols="" placeholder="{{content.config.placeholder}}"></textarea>
+	{{content.config.name}}<br>
+	<textarea class="full" name="{{content.config.name}}" rows="" cols="" ng-bind="content.config.value" placeholder="{{content.config.name}}"></textarea>
 </label>
