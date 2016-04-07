@@ -78,7 +78,7 @@
 							{
 								"config": {
 									"type": "h3",
-									"text": "Network Security"
+									"text": "Networks"
 								},
 								"contents": null
 							},
@@ -111,7 +111,7 @@
 							{
 								"config": {
 									"type": "h3",
-									"text": "Mobile Security"
+									"text": "Mobile"
 								},
 								"contents": null
 							},
@@ -144,7 +144,7 @@
 							{
 								"config": {
 									"type": "h3",
-									"text": "Cloud Security"
+									"text": "Cloud"
 								},
 								"contents": null
 							},
@@ -177,7 +177,7 @@
 							{
 								"config": {
 									"type": "h3",
-									"text": "Application Security"
+									"text": "Applications"
 								},
 								"contents": null
 							},
@@ -342,8 +342,8 @@
 					{
 						"config": {
 							"type": "block",
-							"class": "pad",
-							"size": "threequarter"
+							"class": "white-txt pad",
+							"size": "full"
 						},
 						"contents": [
 							{
@@ -353,15 +353,6 @@
 								},
 								"contents": null
 							}
-						]
-					},				
-					{
-						"config": {
-							"type": "block",
-							"class": "pad",
-							"size": "quarter"
-						},
-						"contents": [
 							{
 								"config": {
 									"type": "button",
