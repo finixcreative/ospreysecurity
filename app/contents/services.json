@@ -349,6 +349,7 @@
 							{
 								"config": {
 									"type": "h3",
+									"class": "pad-bottom-20",
 									"text": "Get started today!"
 								},
 								"contents": null
