@@ -1,0 +1,110 @@
+[
+	{
+		"config": {
+			"title": "contact",
+			"type": "page"
+		},
+		"contents": [
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "",
+						"inner": "white-txt center pad-200-20-120"
+					},
+					"bg": {
+						"img": "",
+						"color": "#201f4e",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"gradient": {
+							"angle": "180deg",
+							"color1": "#201f4e",
+							"color2": "#33337f"
+						},
+						"opacity": 0,
+						"parallax": 0
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "h1",
+							"text": "Contact Us"
+						},
+						"contents": null
+					}
+				]
+			},
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "pad-40-0",
+						"inner": ""
+					},
+					"bg": {
+						"img": "",
+						"color": "#fff",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"parallax": 0
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "block",
+							"size": "half",
+							"class": "pad",
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "block",
+									"size": "full",
+									"class": "primary-bg white-txt"
+								},
+								"contents": [
+									{
+										"config": {
+											"type": "p",
+											"text": "info@ospreysecurity.com"
+										},
+										"contents": null
+									},
+									{
+										"config": {
+											"type": "p",
+											"text": "650-542-9237 or 650-54CYBER"
+										},
+										"contents": null
+									},
+									{
+										"config": {
+											"type": "p",
+											"text": "380 Hamilton Ave, Palo Alto, CA, 94301, CA"
+										},
+										"contents": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"size": "half",
+							"class": "pad",
+						},
+						"contents": []
+					}
+				]
+			}
+		]
+	}
+]
