@@ -79,7 +79,7 @@
 											"size": "full",
 											"input": "text",
 											"name": "name",
-											"value": "",
+											"value": ""
 										},
 										"contents": null
 									},
@@ -112,7 +112,8 @@
 											"size": "full",
 											"name": "message",
 											"rows": "4",
-											"cols": ""
+											"cols": "",
+											"value": ""
 										},
 										"contents": null
 									}
