@@ -75,7 +75,7 @@
 									{
 										"config": {
 											"type": "input",
-											"class": "",
+											"class": "pad-bottom-20",
 											"size": "full",
 											"input": "text",
 											"name": "name",
@@ -86,7 +86,7 @@
 									{
 										"config": {
 											"type": "input",
-											"class": "",
+											"class": "pad-bottom-20",
 											"size": "full",
 											"input": "email",
 											"name": "email",
@@ -97,7 +97,7 @@
 									{
 										"config": {
 											"type": "input",
-											"class": "",
+											"class": "pad-bottom-20",
 											"size": "full",
 											"input": "text",
 											"name": "subject",
