@@ -1,0 +1,186 @@
+[
+	{
+		"config": {
+			"title": "company",
+			"type": "page"
+		},
+		"contents": [
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "",
+						"inner": "white-txt center pad-200-20-120"
+					},
+					"bg": {
+						"img": "",
+						"color": "#201f4e",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"gradient": {
+							"angle": "180deg",
+							"color1": "#201f4e",
+							"color2": "#33337f"
+						},
+						"opacity": 0,
+						"parallax": 0
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "h1",
+							"text": "Company"
+						},
+						"contents": null
+					}
+				]
+			},
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "pad-40-0",
+						"inner": ""
+					},
+					"bg": {
+						"img": "",
+						"color": "#fff",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"parallax": 0
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "block",
+							"class": "pad",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "block",
+									"class": "",
+									"size": "full"
+								},
+								"contents": [
+									{
+										"config": {
+											"type": "image",
+											"size": "full",
+											"src": "client/images/team/img1.jpg",
+											"alt": "Rohit Anabheri"
+										},
+										"contents": null
+									},
+									{
+										"config": {
+											"type": "h4",
+											"text": "Rohit Anabheri"
+										},
+										"contents": null
+									},
+									{
+										"config": {
+											"type": "h5",
+											"text": "Co-Founder"
+										},
+										"contents": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "pad",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "block",
+									"class": "",
+									"size": "full"
+								},
+								"contents": [
+									{
+										"config": {
+											"type": "image",
+											"size": "full",
+											"src": "client/images/team/img2.jpg",
+											"alt": "Ajit Gaddam"
+										},
+										"contents": null
+									},
+									{
+										"config": {
+											"type": "h4",
+											"text": "Ajit Gaddam"
+										},
+										"contents": null
+									},
+									{
+										"config": {
+											"type": "h5",
+											"text": "Co-Founder"
+										},
+										"contents": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "pad",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "block",
+									"class": "",
+									"size": "full"
+								},
+								"contents": [
+									{
+										"config": {
+											"type": "image",
+											"size": "full",
+											"src": "client/images/team/img3.jpg",
+											"alt": "Jason Walkow"
+										},
+										"contents": null
+									},
+									{
+										"config": {
+											"type": "h4",
+											"text": "Jason Walkow"
+										},
+										"contents": null
+									},
+									{
+										"config": {
+											"type": "h5",
+											"text": "UI/UX Developer"
+										},
+										"contents": null
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]
