@@ -342,7 +342,7 @@
 					{
 						"config": {
 							"type": "block",
-							"class": "white-txt pad",
+							"class": "white-txt center pad",
 							"size": "full"
 						},
 						"contents": [
