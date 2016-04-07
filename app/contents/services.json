@@ -226,6 +226,16 @@
 						"contents": [
 							{
 								"config": {
+									"type": "image",
+									"class": "center",
+									"size": "",
+									"src": "client/images/services/service_forensics.png",
+									"alt": "Forensics icon"
+								},
+								"contents": null
+							},
+							{
+								"config": {
 									"type": "h4",
 									"text": "Forensics"
 								},
@@ -240,6 +250,16 @@
 							"size": "third"
 						},
 						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "center",
+									"size": "",
+									"src": "client/images/services/service_development.png",
+									"alt": "Development icon"
+								},
+								"contents": null
+							},
 							{
 								"config": {
 									"type": "h4",
@@ -258,6 +278,16 @@
 						"contents": [
 							{
 								"config": {
+									"type": "image",
+									"class": "center",
+									"size": "",
+									"src": "client/images/services/service_testing.png",
+									"alt": "Testing icon"
+								},
+								"contents": null
+							},
+							{
+								"config": {
 									"type": "h4",
 									"text": "Testing"
 								},
@@ -272,6 +302,16 @@
 							"size": "third"
 						},
 						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "center",
+									"size": "",
+									"src": "client/images/services/service_assessment.png",
+									"alt": "Assessment icon"
+								},
+								"contents": null
+							},
 							{
 								"config": {
 									"type": "h4",
@@ -290,6 +330,16 @@
 						"contents": [
 							{
 								"config": {
+									"type": "image",
+									"class": "center",
+									"size": "",
+									"src": "client/images/services/service_review.png",
+									"alt": "Review icon"
+								},
+								"contents": null
+							},
+							{
+								"config": {
 									"type": "h4",
 									"text": "Review"
 								},
@@ -304,6 +354,16 @@
 							"size": "third"
 						},
 						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "center",
+									"size": "",
+									"src": "client/images/services/service_management.png",
+									"alt": "Management icon"
+								},
+								"contents": null
+							},
 							{
 								"config": {
 									"type": "h4",
