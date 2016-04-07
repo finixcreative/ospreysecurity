@@ -1,0 +1,396 @@
+[
+	{
+		"config": {
+			"title": "services",
+			"type": "page"
+		},
+		"contents": [
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "",
+						"inner": "white-txt center pad-200-20-120"
+					},
+					"bg": {
+						"img": "http://i.imgur.com/GOKnYj1.gif",
+						"color": "#201f4e",
+						"size": "cover",
+						"repeat": "no-repeat",
+						"position": "",
+						"attachment": "fixed",
+						"opacity": 0.5,
+						"parallax": 0.2
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "h1",
+							"text": "Services"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "p",
+							"text": "Our next-generation machine learning algorithms provide real-time threat intelligence to organizations, allowing them to proactively defend against cyber attacks, and help them counter with our evidence-based security platform."
+						},
+						"contents": null
+					}
+				]
+			},
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "pad-40-0",
+						"inner": ""
+					},
+					"bg": {
+						"img": "",
+						"color": "#fff",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"parallax": 0
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "block",
+							"class": "center pad",
+							"size": "quarter"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "center osprey-icon",
+									"size": "",
+									"src": "client/images/icons/network-security.png",
+									"alt": "Network Security icon"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h3",
+									"text": "Network Security"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "Lorem ipsum dolor sit amet, qui ex noster eligendi efficiendi, quo legere antiopam ei. Tale oportere at sit, ad cum quas nostrum accusamus."
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "center pad",
+							"size": "quarter"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "center osprey-icon",
+									"size": "",
+									"src": "client/images/icons/mobile-security.png",
+									"alt": "Mobile Security icon"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h3",
+									"text": "Mobile Security"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "Lorem ipsum dolor sit amet, qui ex noster eligendi efficiendi, quo legere antiopam ei. Tale oportere at sit, ad cum quas nostrum accusamus."
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "center pad",
+							"size": "quarter"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "center osprey-icon",
+									"size": "",
+									"src": "client/images/icons/cloud-security.png",
+									"alt": "Cloud Security icon"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h3",
+									"text": "Cloud Security"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "Lorem ipsum dolor sit amet, qui ex noster eligendi efficiendi, quo legere antiopam ei. Tale oportere at sit, ad cum quas nostrum accusamus."
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "center pad",
+							"size": "quarter"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "center osprey-icon",
+									"size": "",
+									"src": "client/images/icons/application-security.png",
+									"alt": "Application Security icon"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h3",
+									"text": "Application Security"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "Lorem ipsum dolor sit amet, qui ex noster eligendi efficiendi, quo legere antiopam ei. Tale oportere at sit, ad cum quas nostrum accusamus."
+								},
+								"contents": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "pad-40-0",
+						"inner": "center"
+					},
+					"bg": {
+						"img": "",
+						"color": "#eee",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"parallax": 0
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "h3",
+							"text": "Additional services"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "pad",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "h4",
+									"text": "Forensics"
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "pad",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "h4",
+									"text": "Development"
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "pad",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "h4",
+									"text": "Testing"
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "pad",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "h4",
+									"text": "Assessment"
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "pad",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "h4",
+									"text": "Review"
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "pad",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "h4",
+									"text": "Management"
+								},
+								"contents": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "",
+						"inner": ""
+					},
+					"bg": {
+						"img": "",
+						"color": "#201f4e",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"gradient": {
+							"angle": "180deg",
+							"color1": "#201f4e",
+							"color2": "#33337f"
+						},
+						"opacity": 0,
+						"parallax": 0
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "block",
+							"class": "pad",
+							"size": "threequarter"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "h3",
+									"text": "Get started today!"
+								},
+								"contents": null
+							}
+						]
+					},				
+					{
+						"config": {
+							"type": "block",
+							"class": "pad",
+							"size": "quarter"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "button",
+									"id": "",
+									"class": "cta-button center pad",
+									"size": "",
+									"bg": {
+										"color": "#e57d00",
+										"hover": "#fbb03b"
+									},
+									"txt": {
+										"color": "#fff",
+										"hover": "#fff"
+									},
+									"name": "",
+									"buttontype": "",
+									"value": "",
+									"form": "",
+									"click": "",
+									"text": "Request demo",
+									"link": "#/contact",
+									"target": ""
+								},
+								"contents": null
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]
