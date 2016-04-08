@@ -164,7 +164,7 @@
 					"type": "row",
 					"class": {
 						"outer": "",
-						"inner": "white-txt center pad"
+						"inner": "white-txt center pad-40-0"
 					},
 					"bg": {
 						"img": "",
@@ -194,7 +194,7 @@
 						"config": {
 							"type": "image",
 							"id": "",
-							"class": "cta-button",
+							"class": "cta-button pad-20-0",
 							"size": "",
 							"src": "client/images/products/oric.png",
 							"alt": ""
