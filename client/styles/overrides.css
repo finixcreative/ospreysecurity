@@ -605,11 +605,11 @@ footer li {
 	list-style-type: none;
 }
 footer a {
-	color: #fff;
+	color: #e57d00;
 }
 footer a:hover,
 footer p a:hover {
-	color: #f52;
+	color: #fbb03b;
 }
 footer p a {
 	font-weight: 300;
@@ -627,13 +627,13 @@ footer .social li {
 	float: left;
 }
 footer .social li a {
-	background: #0387ab;
+	background: #e57d00;
 	border-radius: 5px;
 	float: left;
 	display: inline-block;
 }
 footer .social li a:hover {
-	background: #75bbce;
+	background: #fbb03b;
 	color: #fff;
 }
 footer .social li a img {
