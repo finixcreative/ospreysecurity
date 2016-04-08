@@ -164,22 +164,22 @@
 					"type": "row",
 					"class": {
 						"outer": "",
-						"inner": "white-txt center pad-100-20"
+						"inner": "white-txt center pad-40-0"
 					},
 					"bg": {
-						"img": "client/images/products/oric.png",
+						"img": "",
 						"color": "#201f4e",
-						"size": "cover",
-						"repeat": "no-repeat",
+						"size": "",
+						"repeat": "",
 						"position": "",
-						"attachment": "fixed",
+						"attachment": "",
 						"gradient": {
 							"angle": "180deg",
 							"color1": "#201f4e",
 							"color2": "#33337f"
 						},
-						"opacity": 0.5,
-						"parallax": 0.2
+						"opacity": 0,
+						"parallax": 0
 					}
 				},
 				"contents": [
@@ -194,6 +194,17 @@
 						"config": {
 							"type": "h4",
 							"text": "Osprey Risk Intelligence & Compliance"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "image",
+							"id": "",
+							"class": "cta-button pad-20-0",
+							"size": "",
+							"src": "client/images/products/oric.png",
+							"alt": ""
 						},
 						"contents": null
 					},
