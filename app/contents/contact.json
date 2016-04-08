@@ -14,15 +14,15 @@
 					},
 					"bg": {
 						"img": "",
-						"color": "#201f4e",
+						"color": "#12374c",
 						"size": "",
 						"repeat": "",
 						"position": "",
 						"attachment": "",
 						"gradient": {
 							"angle": "180deg",
-							"color1": "#201f4e",
-							"color2": "#33337f"
+							"color1": "#12374c",
+							"color2": "#1f627f"
 						},
 						"opacity": 0,
 						"parallax": 0

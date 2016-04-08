@@ -13,16 +13,16 @@ Dark Gray	     | #222
 */
 
 .primary-bg {
-	background: #201f4e;
+	background: #12374c;
 }
 .primary-txt {
-	color: #201f4e;
+	color: #12374c;
 }
 .secondary-bg {
-	background: #33337f;
+	background: #1f627f;
 }
 .secondary-txt {
-	color: #33337f;
+	color: #1f627f;
 }
 .yellow-bg {
 	background: #f5c83d;
@@ -60,7 +60,7 @@ Dark Gray	     | #222
 .white-bg a,
 .lightgray-bg a,
 .midgray-bg a {
-	color: #201f4e;
+	color: #12374c;
 }
 .darkgray-bg > a {
 	color: #fff;
@@ -81,7 +81,7 @@ Dark Gray	     | #222
 .darkgray-bg a.active,
 .darkgray-bg a:active,
 .darkgray-bg a:focus {
-	color: #33337f;
+	color: #1f627f;
 }
 .white-bg p a,
 .lightgray-bg p a,
@@ -247,7 +247,7 @@ select {
 }
 button,
 input[type="submit"] {
-	background: #201f4e;
+	background: #12374c;
 	color: #fff;
 	border: 0;
 	border-radius: 0;
@@ -260,7 +260,7 @@ input[type="submit"] {
 }
 button:hover,
 input[type="submit"]:hover {
-	background: #33337f;
+	background: #1f627f;
 	color: #fff;
 	box-shadow: 0px 1px 1px 1px rgba(0,0,0,0.3);
 }

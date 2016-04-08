@@ -14,7 +14,7 @@
 					},
 					"bg": {
 						"img": "http://i.imgur.com/IeVHQ2j.gif",
-						"color": "#201f4e",
+						"color": "#12374c",
 						"size": "cover",
 						"repeat": "no-repeat",
 						"position": "",
@@ -140,8 +140,8 @@
 									"class": "center pad",
 									"size": "",
 									"bg": {
-										"color": "#201f4e",
-										"hover": "#33337f"
+										"color": "#12374c",
+										"hover": "#1f627f"
 									},
 									"txt": {
 										"color": "#fff",
@@ -198,8 +198,8 @@
 									"class": "center pad",
 									"size": "",
 									"bg": {
-										"color": "#201f4e",
-										"hover": "#33337f"
+										"color": "#12374c",
+										"hover": "#1f627f"
 									},
 									"txt": {
 										"color": "#fff",
@@ -256,8 +256,8 @@
 									"class": "center pad",
 									"size": "",
 									"bg": {
-										"color": "#201f4e",
-										"hover": "#33337f"
+										"color": "#12374c",
+										"hover": "#1f627f"
 									},
 									"txt": {
 										"color": "#fff",
@@ -287,15 +287,15 @@
 					},
 					"bg": {
 						"img": "",
-						"color": "#201f4e",
+						"color": "#12374c",
 						"size": "",
 						"repeat": "",
 						"position": "",
 						"attachment": "",
 						"gradient": {
 							"angle": "180deg",
-							"color1": "#201f4e",
-							"color2": "#33337f"
+							"color1": "#12374c",
+							"color2": "#1f627f"
 						},
 						"opacity": 0,
 						"parallax": 0
