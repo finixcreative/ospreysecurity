@@ -65,6 +65,14 @@
 						"contents": [
 							{
 								"config": {
+									"type": "mailchimp",
+									"class": "",
+									"size": ""
+								},
+								"contents": null
+							},
+							{
+								"config": {
 									"type": "form",
 									"size": "full",
 									"class": "pad",
