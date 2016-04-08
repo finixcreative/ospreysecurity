@@ -10,7 +10,7 @@
 </nav>
 <nav class="tablet full">
 	<ul class="wrapper">
-		<li ng-repeat="page in sitemap.sitemap.pages">
+		<li ng-repeat="page in sitemap.pages">
 			<a href="#/{{page.link}}">{{page.title}}</a>
 		</li>
 		<li class="call-now right-float" ng-controller="ClientController as client">
@@ -25,7 +25,7 @@
 				<img src="app/assets/images/icons/icon_menu.png" alt="Menu">
 			</a>
 			<ul class="dropdown full">
-				<li ng-repeat="page in sitemap.sitemap.pages">
+				<li ng-repeat="page in sitemap.pages">
 					<a href="#/{{page.link}}">{{page.title}}</a>
 				</li>
 			</ul>
