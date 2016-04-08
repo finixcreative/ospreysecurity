@@ -3,6 +3,12 @@
 	<p>
 		{{client.company}} {{client.type}}
 	</p>
+	<p>
+		<span class="full" ng-repeat="contact in client.contacts">
+			<img class="pixel-20 inline-block" src="client/images/contact/{{contact.type}}.png" alt="{{contact.type}} icon">
+			<a href="{{contact.method}}{{contact.info}}">{{contact.info}}</a>
+		</span>
+	</p>
 	<p ng-repeat="location in client.locations">
 		<img class="pixel-20 inline-block" src="client/images/contact/address.png" alt="address icon">
 		<a href="{{location.map}}" ng-show="location.map != ''" target="_blank">
@@ -12,12 +18,6 @@
 		<span ng-hide="location.map != ''">
 			{{location.address.street}}<br ng-show="location.address.street != ''">
 			{{location.address.city}}, {{location.address.state}} {{location.address.zip}}
-		</span>
-	</p>
-	<p>
-		<span class="full" ng-repeat="contact in client.contacts">
-			<img class="pixel-20 inline-block" src="client/images/contact/{{contact.type}}.png" alt="{{contact.type}} icon">
-			<a href="{{contact.method}}{{contact.info}}">{{contact.info}}</a>
 		</span>
 	</p>
 </div>

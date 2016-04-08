@@ -140,21 +140,51 @@
 											"type": "p",
 											"text": "info@ospreysecurity.com"
 										},
-										"contents": null
+										"contents": [
+											{
+												"config": {
+													"type": "image",
+													"class": "inline-block",
+													"size": "pixel-20",
+													"src": "client/images/clients/email.png"
+												},
+												"contents": null
+											}
+										]
 									},
 									{
 										"config": {
 											"type": "p",
 											"text": "650-542-9237 or 650-54CYBER"
 										},
-										"contents": null
+										"contents": [
+											{
+												"config": {
+													"type": "image",
+													"class": "inline-block",
+													"size": "pixel-20",
+													"src": "client/images/clients/phone.png"
+												},
+												"contents": null
+											}
+										]
 									},
 									{
 										"config": {
 											"type": "p",
 											"text": "380 Hamilton Ave, Palo Alto, CA, 94301, CA"
 										},
-										"contents": null
+										"contents": [
+											{
+												"config": {
+													"type": "image",
+													"class": "inline-block",
+													"size": "pixel-20",
+													"src": "client/images/clients/address.png"
+												},
+												"contents": null
+											}
+										]
 									}
 								]
 							}
