@@ -19,6 +19,11 @@
 						"repeat": "no-repeat",
 						"position": "",
 						"attachment": "fixed",
+						"gradient": {
+							"angle": "180deg",
+							"color1": "#12374c",
+							"color2": "#1f627f"
+						},
 						"opacity": 0.5,
 						"parallax": 0.2
 					}
