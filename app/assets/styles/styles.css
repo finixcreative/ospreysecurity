@@ -114,7 +114,6 @@ nav ul li .subnav {
 	position: absolute;
 }
 nav ul li .dropdown {
-	border-bottom: 1px solid #fff;
 	position: fixed;
 }
 nav ul li .dropdown li a {
