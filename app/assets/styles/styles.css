@@ -100,11 +100,11 @@ nav ul li a:focus {
 }
 nav ul li .subnav,
 nav ul li .dropdown {
-	background: #444;
 	height: auto;	
 	display: none;
-	top: 70px;
+	top: 80px;
 	left: 0px;
+	box-shadow: 0 1px 0 rgba(0,0,0,0.1);
 }
 nav ul li:hover > .dropdown,
 nav ul li:hover > .subnav {
