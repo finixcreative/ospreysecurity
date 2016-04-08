@@ -186,7 +186,14 @@
 					{
 						"config": {
 							"type": "h3",
-							"text": "Try our platform"
+							"text": "Meet ORIC"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "h4",
+							"text": "Osprey Risk Intelligence & Compliance"
 						},
 						"contents": null
 					},
