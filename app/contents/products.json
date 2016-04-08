@@ -163,7 +163,7 @@
 				"config": {
 					"type": "row",
 					"class": {
-						"outer": "pad-40-0",
+						"outer": "",
 						"inner": "center"
 					},
 					"bg": {
@@ -193,7 +193,6 @@
 							{
 								"config": {
 									"type": "h3",
-									"class": "pad-bottom-20",
 									"text": "Try our platform"
 								},
 								"contents": null
