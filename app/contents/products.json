@@ -164,7 +164,7 @@
 					"type": "row",
 					"class": {
 						"outer": "",
-						"inner": "center pad"
+						"inner": "white-txt center pad"
 					},
 					"bg": {
 						"img": "",
