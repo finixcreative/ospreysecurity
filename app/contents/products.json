@@ -168,6 +168,103 @@
 					},
 					"bg": {
 						"img": "",
+						"color": "#201f4e",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"gradient": {
+							"angle": "180deg",
+							"color1": "#201f4e",
+							"color2": "#33337f"
+						},
+						"opacity": 0,
+						"parallax": 0
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "block",
+							"class": "white-txt center pad",
+							"size": "full"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "h3",
+									"class": "pad-bottom-20",
+									"text": "Try our platform"
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "white-txt center pad",
+							"size": "half"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"id": "",
+									"class": "cta-button center pad",
+									"size": "",
+									"src": "client/images/products/oric.png",
+									"alt": ""
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "white-txt center pad",
+							"size": "half"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "button",
+									"id": "",
+									"class": "cta-button center pad",
+									"size": "",
+									"bg": {
+										"color": "#e57d00",
+										"hover": "#fbb03b"
+									},
+									"txt": {
+										"color": "#fff",
+										"hover": "#fff"
+									},
+									"name": "",
+									"buttontype": "",
+									"value": "",
+									"form": "",
+									"click": "",
+									"text": "Request demo",
+									"link": "#/contact",
+									"target": ""
+								},
+								"contents": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "pad-40-0",
+						"inner": "center"
+					},
+					"bg": {
+						"img": "",
 						"color": "#eee",
 						"size": "",
 						"repeat": "",
