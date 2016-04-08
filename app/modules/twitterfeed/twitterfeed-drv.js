@@ -10,11 +10,11 @@ angular.module('coreMod')
 				js.src = p + "://platform.twitter.com/widgets.js";
 				fjs.parentNode.insertBefore(js,fjs);
 			}
-		}
-		getFeed(document, "script", "twitter-wjs");
+		};
 		return {
 			restrict: 'E',
 			templateUrl: 'app/modules/twitterfeed/twitterfeed.html'
+			link: getFeed(document, "script", "twitter-wjs");
 		};
 	})
 ;
