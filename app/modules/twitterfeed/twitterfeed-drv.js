@@ -13,8 +13,8 @@ angular.module('coreMod')
 		};
 		return {
 			restrict: 'E',
-			templateUrl: 'app/modules/twitterfeed/twitterfeed.html'
-			link: getFeed(document, "script", "twitter-wjs");
+			templateUrl: 'app/modules/twitterfeed/twitterfeed.html',
+			link: getFeed(document, "script", "twitter-wjs")
 		};
 	})
 ;
