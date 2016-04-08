@@ -477,6 +477,12 @@ header nav li ul.menu li a:hover {
     line-height: 2em;
     display: inline-block;
 }
+.inline {
+	display: inline;
+}
+.inline-block {
+	display: inline-block;
+}
 .hero-overlay {
 	background: rgba(34,34,34,0.65);
 }

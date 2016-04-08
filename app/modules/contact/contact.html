@@ -4,6 +4,7 @@
 		{{client.company}} {{client.type}}
 	</p>
 	<p ng-repeat="location in client.locations">
+		<img class="inline-block" src="client/images/contact/address.png" alt="address icon">
 		<a href="{{location.map}}" ng-show="location.map != ''" target="_blank">
 			{{location.address.street}}<br ng-show="location.address.street != ''">
 			{{location.address.city}}, {{location.address.state}} {{location.address.zip}}
@@ -15,6 +16,7 @@
 	</p>
 	<p>
 		<span class="full" ng-repeat="contact in client.contacts">
+			<img class="inline-block" src="client/images/contact/{{contact.type}}.png" alt="{{contact.type}} icon">
 			<a href="{{contact.method}}{{contact.info}}">{{contact.info}}</a>
 		</span>
 	</p>
