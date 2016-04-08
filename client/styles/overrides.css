@@ -137,6 +137,12 @@ Dark Gray	     | #222
 .pad-40-20 {
 	padding: 40px 20px;
 }
+.pad-60 {
+	padding: 60px;
+}
+.pad-60-0 {
+	padding: 60px 0;
+}
 .pad-100-20 {
 	padding: 100px 20px;
 }
