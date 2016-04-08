@@ -201,7 +201,7 @@
 						"config": {
 							"type": "image",
 							"id": "",
-							"class": "cta-button pad-20-0",
+							"class": "full pad-20",
 							"size": "",
 							"src": "client/images/products/oric.png",
 							"alt": ""
