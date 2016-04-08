@@ -239,7 +239,8 @@ select {
 	height: auto;
 	font-size: 16px;
 }
-button {
+button,
+input[type="submit"] {
 	background: #201f4e;
 	color: #fff;
 	border: 0;
@@ -251,16 +252,19 @@ button {
 	-webkit-transition: all .3s ease-in;
 	transition: all .3s ease-in;
 }
-button:hover {
+button:hover,
+input[type="submit"]:hover {
 	background: #33337f;
 	color: #fff;
 	box-shadow: 0px 1px 1px 1px rgba(0,0,0,0.3);
 }
-button.cta-button {
+button.cta-button,
+input[type="submit"].cta-button {
 	background: #e57d00;
 	color: #fff;
 }
-button.cta-button:hover {
+button.cta-button:hover,
+input[type="submit"].cta-button:hover {
 	background: #fbb03b;
 	color: #fff;
 }
