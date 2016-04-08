@@ -164,7 +164,7 @@
 					"type": "row",
 					"class": {
 						"outer": "",
-						"inner": "center"
+						"inner": "center pad"
 					},
 					"bg": {
 						"img": "",
@@ -185,73 +185,46 @@
 				"contents": [
 					{
 						"config": {
-							"type": "block",
-							"class": "white-txt center pad",
-							"size": "full"
+							"type": "h3",
+							"text": "Try our platform"
 						},
-						"contents": [
-							{
-								"config": {
-									"type": "h3",
-									"text": "Try our platform"
-								},
-								"contents": null
-							}
-						]
+						"contents": null
 					},
 					{
 						"config": {
-							"type": "block",
-							"class": "white-txt center pad",
-							"size": "half"
+							"type": "image",
+							"id": "",
+							"class": "cta-button",
+							"size": "",
+							"src": "client/images/products/oric.png",
+							"alt": ""
 						},
-						"contents": [
-							{
-								"config": {
-									"type": "image",
-									"id": "",
-									"class": "cta-button",
-									"size": "",
-									"src": "client/images/products/oric.png",
-									"alt": ""
-								},
-								"contents": null
-							}
-						]
+						"contents": null
 					},
 					{
 						"config": {
-							"type": "block",
-							"class": "white-txt center pad",
-							"size": "half"
+							"type": "button",
+							"id": "",
+							"class": "cta-button center pad",
+							"size": "",
+							"bg": {
+								"color": "#e57d00",
+								"hover": "#fbb03b"
+							},
+							"txt": {
+								"color": "#fff",
+								"hover": "#fff"
+							},
+							"name": "",
+							"buttontype": "",
+							"value": "",
+							"form": "",
+							"click": "",
+							"text": "Request demo",
+							"link": "#/contact",
+							"target": ""
 						},
-						"contents": [
-							{
-								"config": {
-									"type": "button",
-									"id": "",
-									"class": "cta-button center pad",
-									"size": "",
-									"bg": {
-										"color": "#e57d00",
-										"hover": "#fbb03b"
-									},
-									"txt": {
-										"color": "#fff",
-										"hover": "#fff"
-									},
-									"name": "",
-									"buttontype": "",
-									"value": "",
-									"form": "",
-									"click": "",
-									"text": "Request demo",
-									"link": "#/contact",
-									"target": ""
-								},
-								"contents": null
-							}
-						]
+						"contents": null
 					}
 				]
 			},
