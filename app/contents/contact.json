@@ -70,62 +70,6 @@
 									"size": ""
 								},
 								"contents": null
-							},
-							{
-								"config": {
-									"type": "form",
-									"size": "full",
-									"class": "pad",
-									"action": "",
-									"method": ""
-								},
-								"contents": [
-									{
-										"config": {
-											"type": "input",
-											"class": "pad-bottom-20",
-											"size": "full",
-											"input": "text",
-											"name": "name",
-											"value": ""
-										},
-										"contents": null
-									},
-									{
-										"config": {
-											"type": "input",
-											"class": "pad-bottom-20",
-											"size": "full",
-											"input": "email",
-											"name": "email",
-											"value": ""
-										},
-										"contents": null
-									},
-									{
-										"config": {
-											"type": "input",
-											"class": "pad-bottom-20",
-											"size": "full",
-											"input": "text",
-											"name": "subject",
-											"value": ""
-										},
-										"contents": null
-									},
-									{
-										"config": {
-											"type": "textarea",
-											"class": "",
-											"size": "full",
-											"name": "message",
-											"rows": "10",
-											"cols": "",
-											"value": ""
-										},
-										"contents": null
-									}
-								]
 							}
 						]
 					},
