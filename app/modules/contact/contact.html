@@ -4,7 +4,7 @@
 		{{client.company}} {{client.type}}
 	</p>
 	<p ng-repeat="location in client.locations">
-		<a href="{{location.map}}" ng-show="location.map != ''">
+		<a href="{{location.map}}" ng-show="location.map != ''" target="_blank">
 			{{location.address.street}}<br ng-show="location.address.street != ''">
 			{{location.address.city}}, {{location.address.state}} {{location.address.zip}}
 		</a>
