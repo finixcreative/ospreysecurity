@@ -1,10 +1,18 @@
 <footer class="full">
 	<div class="wrapper">
-		<div class="half">
+		<div class="quarter">
 			<contact class="pad full"></contact>
 			<social class="pad full"></social>			
 		</div>
-		<twitterfeed class="pad half"></twitterfeed>
+		<div class="quarter pad">
+			<ul class="full">
+				<li class="full" ng-repeat="page in sitemap.pages">
+					<a href="#/{{page.link}}" ng-class="{active: isActive('/{{page.link}}')}" onload="active: isActive('/home')">{{page.title}}</a>
+				</li>
+			</ul>			
+		</div>
+		<twitterfeed class="pad quarter"></twitterfeed>
+		<mailchimp class="pad quarter"></mailchimp>
 		<div class="full">
 			<copyright class="center pad full"></copyright>
 			<!--<login class="pad half"></login>-->
