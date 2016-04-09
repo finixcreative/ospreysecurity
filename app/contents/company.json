@@ -77,6 +77,129 @@
 				"config": {
 					"type": "row",
 					"class": {
+						"outer": "",
+						"inner": ""
+					},
+					"bg": {
+						"img": "",
+						"color": "#12374c",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"gradient": {
+							"angle": "180deg",
+							"color1": "#12374c",
+							"color2": "#1f627f"
+						},
+						"opacity": 0,
+						"parallax": 0
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "block",
+							"class": "white-txt center pad",
+							"size": "full"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "h3",
+									"text": "Team highlights"
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "client-logo center pad",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "",
+									"size": "",
+									"src": "client/images/highlights/patents.png",
+									"alt": ""
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"class": "center",
+									"text": "43 Patents in big data, AI, cryptography & ecommerce",
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "client-logo center pad",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "",
+									"size": "",
+									"src": "client/images/highlights/security.png",
+									"alt": ""
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"class": "center",
+									"text": "85 years of cyber security experience",
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "client-logo center pad",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "",
+									"size": "",
+									"src": "client/images/highlights/software.png",
+									"alt": ""
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"class": "center",
+									"text": "193 years of software engineering experience",
+								},
+								"contents": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"config": {
+					"type": "row",
+					"class": {
 						"outer": "pad-40-0",
 						"inner": ""
 					},
