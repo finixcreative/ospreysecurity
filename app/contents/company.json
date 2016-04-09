@@ -42,7 +42,7 @@
 				"config": {
 					"type": "row",
 					"class": {
-						"outer": "pad-40-0",
+						"outer": "pad-40-20",
 						"inner": ""
 					},
 					"bg": {
