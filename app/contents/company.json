@@ -116,7 +116,7 @@
 					{
 						"config": {
 							"type": "block",
-							"class": "client-logo center pad",
+							"class": "center pad",
 							"size": "third"
 						},
 						"contents": [
@@ -151,7 +151,7 @@
 					{
 						"config": {
 							"type": "block",
-							"class": "client-logo center pad",
+							"class": "center pad",
 							"size": "third"
 						},
 						"contents": [
@@ -186,7 +186,7 @@
 					{
 						"config": {
 							"type": "block",
-							"class": "client-logo center pad",
+							"class": "center pad",
 							"size": "third"
 						},
 						"contents": [
