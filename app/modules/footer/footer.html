@@ -6,7 +6,7 @@
 		</div>
 		<div class="quarter pad">
 			<h3>Sitemap</h3>
-			<ul class="full">
+			<ul class="pad-0 full">
 				<li class="full" ng-repeat="page in sitemap.pages">
 					<a href="#/{{page.link}}" ng-class="{active: isActive('/{{page.link}}')}" onload="active: isActive('/home')">{{page.title}}</a>
 				</li>
