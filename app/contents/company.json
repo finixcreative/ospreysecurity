@@ -123,7 +123,7 @@
 							{
 								"config": {
 									"type": "image",
-									"class": "pad-bottom-20",
+									"class": "client-logo pad-bottom-20",
 									"size": "",
 									"src": "client/images/highlights/patents.png",
 									"alt": ""
@@ -158,7 +158,7 @@
 							{
 								"config": {
 									"type": "image",
-									"class": "pad-bottom-20",
+									"class": "client-logo pad-bottom-20",
 									"size": "",
 									"src": "client/images/highlights/security.png",
 									"alt": ""
@@ -193,7 +193,7 @@
 							{
 								"config": {
 									"type": "image",
-									"class": "pad-bottom-20",
+									"class": "client-logo pad-bottom-20",
 									"size": "",
 									"src": "client/images/highlights/software.png",
 									"alt": ""

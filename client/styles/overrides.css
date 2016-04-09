@@ -592,7 +592,8 @@ table {
 	max-width: 33.33%;
 	max-width: calc(100% / 3);
 }
-.client-logo img {
+.client-logo img,
+img.client-logo {
 	width: 100%;
 	max-width: 100px;
 }
