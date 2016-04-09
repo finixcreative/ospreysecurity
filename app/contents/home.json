@@ -81,6 +81,16 @@
 								"contents": null
 							}
 						]
+					},
+					{
+						"config": {
+							"type": "image",
+							"class": "center full",
+							"size": "",
+							"src": "client/images/osprey_security-logo.png",
+							"alt": "Osprey Security logo"
+						},
+						"contents": null
 					}
 				]
 			},
@@ -283,6 +293,145 @@
 					"type": "row",
 					"class": {
 						"outer": "",
+						"inner": "white-txt center pad-top-40"
+					},
+					"bg": {
+						"img": "",
+						"color": "#12374c",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"gradient": {
+							"angle": "180deg",
+							"color1": "#12374c",
+							"color2": "#1f627f"
+						},
+						"opacity": 0,
+						"parallax": 0
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "h3",
+							"text": "Osprey Risk Intelligence & Compliance"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "button",
+							"id": "",
+							"class": "cta-button center pad",
+							"size": "",
+							"bg": {
+								"color": "#e57d00",
+								"hover": "#fbb03b"
+							},
+							"txt": {
+								"color": "#fff",
+								"hover": "#fff"
+							},
+							"name": "",
+							"buttontype": "",
+							"value": "",
+							"form": "",
+							"click": "",
+							"text": "Learn more",
+							"link": "#/products",
+							"target": ""
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "image",
+							"id": "",
+							"class": "full pad-top-20",
+							"size": "",
+							"src": "client/images/products/oric-ipad.png",
+							"alt": ""
+						},
+						"contents": null
+					}
+				]
+			},
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "",
+						"inner": "pad-20-0"
+					},
+					"bg": {
+						"img": "",
+						"color": "#f3f3f3",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"parallax": 0
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "block",
+							"class": "pad",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "",
+									"size": "full",
+									"src": "client/images/osprey_security-badge.png",
+									"alt": "Early adopter program"
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "pad",
+							"size": "twothird"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "p",
+									"class": "italic",
+									"text": "\"I believe in Osprey Security’s vision for helping secure my organization by harnessing the power of Big Data and Artificial Intelligence and providing my team that predictive and proactive Cyber Security intelligence we have been lacking in our arsenal.\""
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h4",
+									"text": "- Paul B"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h5",
+									"text": "Chief Security Officer, Fortune 50 company"
+								},
+								"contents": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "",
 						"inner": ""
 					},
 					"bg": {
@@ -436,73 +585,15 @@
 			},
 			{
 				"config": {
-					"type": "row",
-					"class": {
-						"outer": "",
-						"inner": "pad-20-0"
-					},
-					"bg": {
-						"img": "",
-						"color": "#f3f3f3",
-						"size": "",
-						"repeat": "",
-						"position": "",
-						"attachment": "",
-						"parallax": 0
-					}
+					"type": "iframe",
+					"class": "",
+					"size": "full",
+					"src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3167.6296576966897!2d-122.16141068469182!3d37.44585267982067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fbb39663aeb8f%3A0xfad49321d9531e58!2s380+Hamilton+Ave%2C+Palo+Alto%2C+CA+94301!5e0!3m2!1sen!2sus!4v1460071847580",
+					"width": "",
+					"height": "400",
+					"frameborder": 0
 				},
-				"contents": [
-					{
-						"config": {
-							"type": "block",
-							"class": "pad",
-							"size": "third"
-						},
-						"contents": [
-							{
-								"config": {
-									"type": "image",
-									"class": "",
-									"size": "full",
-									"src": "client/images/osprey_security-badge.png",
-									"alt": "Early adopter program"
-								},
-								"contents": null
-							}
-						]
-					},
-					{
-						"config": {
-							"type": "block",
-							"class": "pad",
-							"size": "twothird"
-						},
-						"contents": [
-							{
-								"config": {
-									"type": "p",
-									"class": "italic",
-									"text": "\"I believe in Osprey Security’s vision for helping secure my organization by harnessing the power of Big Data and Artificial Intelligence and providing my team that predictive and proactive Cyber Security intelligence we have been lacking in our arsenal.\""
-								},
-								"contents": null
-							},
-							{
-								"config": {
-									"type": "h4",
-									"text": "- Paul B"
-								},
-								"contents": null
-							},
-							{
-								"config": {
-									"type": "h5",
-									"text": "Chief Security Officer, Fortune 50 company"
-								},
-								"contents": null
-							}
-						]
-					}
-				]
+				"contents": null
 			}
 		]
 	}
