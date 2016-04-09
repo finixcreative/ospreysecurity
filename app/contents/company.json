@@ -78,7 +78,7 @@
 					"type": "row",
 					"class": {
 						"outer": "",
-						"inner": ""
+						"inner": "white-txt"
 					},
 					"bg": {
 						"img": "",
@@ -100,7 +100,7 @@
 					{
 						"config": {
 							"type": "block",
-							"class": "white-txt center pad",
+							"class": "center pad",
 							"size": "full"
 						},
 						"contents": [
