@@ -137,6 +137,9 @@ Dark Gray	     | #222
 .pad-40-20 {
 	padding: 40px 20px;
 }
+.pad-40-20-0 {
+	padding: 40px 20px 0;
+}
 .pad-60 {
 	padding: 60px;
 }
@@ -162,6 +165,10 @@ Dark Gray	     | #222
 	padding: 0;
 	padding-top: 20px;
 }
+.pad-top-40 {
+	padding: 0;
+	padding-top: 40px;	
+}
 .pad-bottom-20 {
 	padding: 0;
 	padding-bottom: 20px;
@@ -170,7 +177,7 @@ Dark Gray	     | #222
 	padding: 0;
 	padding-left: 20px;
 }
-.pad-top-20 {
+.pad-right-20 {
 	padding: 0;
 	padding-right: 20px;
 }

@@ -293,7 +293,7 @@
 					"type": "row",
 					"class": {
 						"outer": "",
-						"inner": "white-txt center pad-top-40"
+						"inner": "white-txt center pad-40-20-0"
 					},
 					"bg": {
 						"img": "",
