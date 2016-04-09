@@ -132,9 +132,17 @@
 							},
 							{
 								"config": {
+									"type": "h4",
+									"class": "center",
+									"text": "43 patents"
+								},
+								"contents": null
+							},
+							{
+								"config": {
 									"type": "p",
 									"class": "center",
-									"text": "43 Patents in big data, AI, cryptography & ecommerce"
+									"text": "in big data, AI, cryptography & ecommerce"
 								},
 								"contents": null
 							}
@@ -159,9 +167,17 @@
 							},
 							{
 								"config": {
+									"type": "h4",
+									"class": "center",
+									"text": "85 years"
+								},
+								"contents": null
+							},
+							{
+								"config": {
 									"type": "p",
 									"class": "center",
-									"text": "85 years of cyber security experience"
+									"text": "of cyber security experience"
 								},
 								"contents": null
 							}
@@ -186,9 +202,17 @@
 							},
 							{
 								"config": {
+									"type": "h4",
+									"class": "center",
+									"text": "193 years"
+								},
+								"contents": null
+							},
+							{
+								"config": {
 									"type": "p",
 									"class": "center",
-									"text": "193 years of software engineering experience"
+									"text": "of software engineering experience"
 								},
 								"contents": null
 							}
