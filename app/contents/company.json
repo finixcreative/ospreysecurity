@@ -58,6 +58,49 @@
 				"contents": [
 					{
 						"config": {
+							"type": "h3",
+							"class": "center",
+							"text": "About us"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "p",
+							"text": "Lorem ipsum dolor sit amet, ea suscipit mattis magna ullamcorper quisque massa, sit erat cum orci quis, non justo, congue luctus diam adipiscing nullam sociis, dolor morbi nibh duis pede ligula. Risus tellus tempor magna, id et quam. Est auctor nonummy dui hymenaeos, velit eu mauris scelerisque porttitor, fermentum congue. Maecenas quidem, pede aspernatur euismod at in primis libero, ut dictum eum sit ullamcorper tellus tristique, blandit nulla, ut tortor. Diam arcu risus rhoncus euismod sem sed. Sem nisl ut ac, in ante et, et odio lacinia. Neque risus wisi cras, tempus vestibulum pellentesque faucibus. Non pede justo morbi ipsa, corporis donec tellus consequat."
+						},
+						"contents": null
+					}
+				]
+			},
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "pad-40-0",
+						"inner": ""
+					},
+					"bg": {
+						"img": "",
+						"color": "#eee",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"parallax": 0
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "h3",
+							"class": "center",
+							"text": "Our team"
+						},
+						"contents": null
+					},
+					{
+						"config": {
 							"type": "block",
 							"class": "pad",
 							"size": "third"
@@ -66,7 +109,7 @@
 							{
 								"config": {
 									"type": "block",
-									"class": "",
+									"class": "white-bg",
 									"size": "full"
 								},
 								"contents": [
@@ -116,7 +159,7 @@
 							{
 								"config": {
 									"type": "block",
-									"class": "",
+									"class": "white-bg",
 									"size": "full"
 								},
 								"contents": [
@@ -166,7 +209,7 @@
 							{
 								"config": {
 									"type": "block",
-									"class": "",
+									"class": "white-bg",
 									"size": "full"
 								},
 								"contents": [
