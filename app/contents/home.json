@@ -89,7 +89,7 @@
 					"type": "row",
 					"class": {
 						"outer": "",
-						"inner": "white-txt center pad-40-20-0"
+						"inner": "white-txt center"
 					},
 					"bg": {
 						"img": "",
@@ -110,47 +110,64 @@
 				"contents": [
 					{
 						"config": {
-							"type": "h3",
-							"text": "Osprey Risk Intelligence & Compliance",
-							"class": "pad-bottom-20"
+							"type": "block",
+							"class": "pad-40-20",
+							"size": "half"
 						},
-						"contents": null
+						"contents": [
+							{
+								"config": {
+									"type": "h3",
+									"text": "Osprey Risk Intelligence & Compliance",
+									"class": "pad-bottom-20"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "button",
+									"id": "",
+									"class": "cta-button center pad",
+									"size": "",
+									"bg": {
+										"color": "#e57d00",
+										"hover": "#fbb03b"
+									},
+									"txt": {
+										"color": "#fff",
+										"hover": "#fff"
+									},
+									"name": "",
+									"buttontype": "",
+									"value": "",
+									"form": "",
+									"click": "",
+									"text": "Learn more",
+									"link": "#/products",
+									"target": ""
+								},
+								"contents": null
+							}
+						]
 					},
 					{
 						"config": {
-							"type": "button",
-							"id": "",
-							"class": "cta-button center pad",
-							"size": "",
-							"bg": {
-								"color": "#e57d00",
-								"hover": "#fbb03b"
-							},
-							"txt": {
-								"color": "#fff",
-								"hover": "#fff"
-							},
-							"name": "",
-							"buttontype": "",
-							"value": "",
-							"form": "",
-							"click": "",
-							"text": "Learn more",
-							"link": "#/products",
-							"target": ""
+							"type": "block",
+							"class": "pad-40-20-0",
+							"size": "half"
 						},
-						"contents": null
-					},
-					{
-						"config": {
-							"type": "image",
-							"id": "",
-							"class": "full pad-top-20",
-							"size": "",
-							"src": "client/images/products/oric-ipad.png",
-							"alt": ""
-						},
-						"contents": null
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "",
+									"size": "full",
+									"src": "client/images/products/oric-ipad.png",
+									"alt": "Osprey Risk Intelligence & Compliance"
+								},
+								"contents": null
+							}
+						]
 					}
 				]
 			},
