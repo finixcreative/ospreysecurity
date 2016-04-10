@@ -245,7 +245,7 @@
 							{
 								"config": {
 									"type": "p",
-									"text": "Perform vulnerability or penetration testing to determine the impact to your business from a breach of your network, application, internal cloud, or other IT assets."
+									"text": "Perform vulnerability or penetration testing to determine the impact to your business from a breach of your network."
 								},
 								"contents": null
 							},
