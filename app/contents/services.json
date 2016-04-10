@@ -70,8 +70,8 @@
 									"type": "image",
 									"class": "center osprey-icon",
 									"size": "",
-									"src": "client/images/icons/network-security.png",
-									"alt": "Network Security icon"
+									"src": "client/images/icons/icon_factory.png",
+									"alt": "Infrastructure icon"
 								},
 								"contents": null
 							},
@@ -103,8 +103,8 @@
 									"type": "image",
 									"class": "center osprey-icon",
 									"size": "",
-									"src": "client/images/icons/mobile-security.png",
-									"alt": "Mobile Security icon"
+									"src": "client/images/icons/icon_network.png",
+									"alt": "Network icon"
 								},
 								"contents": null
 							},
@@ -136,8 +136,8 @@
 									"type": "image",
 									"class": "center osprey-icon",
 									"size": "",
-									"src": "client/images/icons/cloud-security.png",
-									"alt": "Cloud Security icon"
+									"src": "client/images/icons/icon_training.png",
+									"alt": "Education icon"
 								},
 								"contents": null
 							},
