@@ -62,7 +62,7 @@
 						"config": {
 							"type": "block",
 							"class": "center pad",
-							"size": "quarter"
+							"size": "third"
 						},
 						"contents": [
 							{
@@ -78,14 +78,14 @@
 							{
 								"config": {
 									"type": "h3",
-									"text": "Networks"
+									"text": "CRITICAL INFRASTRUCTURE"
 								},
 								"contents": null
 							},
 							{
 								"config": {
 									"type": "p",
-									"text": "Lorem ipsum dolor sit amet, qui ex noster eligendi efficiendi, quo legere antiopam ei. Tale oportere at sit, ad cum quas nostrum accusamus."
+									"text": "Inspect the foundation of your business and ensure optimal operating efficiency and reliability."
 								},
 								"contents": null
 							}
@@ -95,7 +95,7 @@
 						"config": {
 							"type": "block",
 							"class": "center pad",
-							"size": "quarter"
+							"size": "third"
 						},
 						"contents": [
 							{
@@ -111,7 +111,7 @@
 							{
 								"config": {
 									"type": "h3",
-									"text": "Mobile"
+									"text": "NETWORK SECURITY"
 								},
 								"contents": null
 							},
@@ -128,7 +128,7 @@
 						"config": {
 							"type": "block",
 							"class": "center pad",
-							"size": "quarter"
+							"size": "third"
 						},
 						"contents": [
 							{
@@ -144,40 +144,7 @@
 							{
 								"config": {
 									"type": "h3",
-									"text": "Cloud"
-								},
-								"contents": null
-							},
-							{
-								"config": {
-									"type": "p",
-									"text": "Lorem ipsum dolor sit amet, qui ex noster eligendi efficiendi, quo legere antiopam ei. Tale oportere at sit, ad cum quas nostrum accusamus."
-								},
-								"contents": null
-							}
-						]
-					},
-					{
-						"config": {
-							"type": "block",
-							"class": "center pad",
-							"size": "quarter"
-						},
-						"contents": [
-							{
-								"config": {
-									"type": "image",
-									"class": "center osprey-icon",
-									"size": "",
-									"src": "client/images/icons/application-security.png",
-									"alt": "Application Security icon"
-								},
-								"contents": null
-							},
-							{
-								"config": {
-									"type": "h3",
-									"text": "Applications"
+									"text": "EDUCATION"
 								},
 								"contents": null
 							},
