@@ -121,7 +121,7 @@
 							},
 							{
 								"config": {
-									"type": "h3",
+									"type": "h4",
 									"text": "CRITICAL INFRASTRUCTURE"
 								},
 								"contents": null
@@ -179,7 +179,7 @@
 							},
 							{
 								"config": {
-									"type": "h3",
+									"type": "h4",
 									"text": "RISK ASSESSMENTS"
 								},
 								"contents": null
@@ -237,7 +237,7 @@
 							},
 							{
 								"config": {
-									"type": "h3",
+									"type": "h4",
 									"text": "VULNERABILITY ASSESSMENTS"
 								},
 								"contents": null
