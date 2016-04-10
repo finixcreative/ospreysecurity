@@ -15,8 +15,8 @@
 	<ul class="wrapper">
 		<li ng-repeat="page in sitemap.pages">
 			<a href="#/{{page.link}}">
-				<img src="page.icon" ng-show="page.icon">
-				<span ng-hide="{{page.icon}}">{{page.title}}</span>
+				<img src="{{page.icon}}" ng-show="page.icon">
+				<span ng-hide="page.icon">{{page.title}}</span>
 			</a>
 		</li>
 		<li class="call-now right-float cta-button" ng-controller="ClientController as client">
