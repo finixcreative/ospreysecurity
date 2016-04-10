@@ -2,7 +2,8 @@
 	"pages": [
 		{
 			"title": "Home",
-			"link": "home"
+			"link": "home",
+			"icon": "client/images/osprey_security-logo-alt.png"
 		},
 		{
 			"title": "Products",

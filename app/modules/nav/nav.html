@@ -1,7 +1,10 @@
 <nav class="desktop full">
 	<ul class="wrapper">
 		<li ng-repeat="page in sitemap.pages">
-			<a href="#/{{page.link}}" ng-class="{active: isActive('/{{page.link}}')}" onload="active: isActive('/home')">{{page.title}}</a>
+			<a href="#/{{page.link}}" ng-class="{active: isActive('/{{page.link}}')}" onload="active: isActive('/home')">
+				<img src="page.icon" ng-show="page.icon">
+				<span ng-hide="page.icon">{{page.title}}</span>
+			</a>
 		</li>
 		<li class="call-now right-float cta-button" ng-controller="ClientController as client">
 			<a href="tel:1-{{client.cta}}">Call Now</a>
@@ -11,7 +14,10 @@
 <nav class="tablet full">
 	<ul class="wrapper">
 		<li ng-repeat="page in sitemap.pages">
-			<a href="#/{{page.link}}">{{page.title}}</a>
+			<a href="#/{{page.link}}">
+				<img src="page.icon" ng-show="page.icon">
+				<span ng-hide="page.icon">{{page.title}}</span>
+			</a>
 		</li>
 		<li class="call-now right-float cta-button" ng-controller="ClientController as client">
 			<a href="tel:1-{{client.cta}}">Call Now</a>
