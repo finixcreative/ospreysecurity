@@ -228,6 +228,117 @@
 					"type": "row",
 					"class": {
 						"outer": "pad-40-0",
+						"inner": ""
+					},
+					"bg": {
+						"img": "",
+						"color": "#fff",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"parallax": 0
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "h3",
+							"text": "The Risk Intelligence and Compliance Platform for You"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "p",
+							"text": "The current state of governance, regulation and compliance (GRC) in companies small and large, across industries, is broken. From centralized dashboards and an evolutionary learning system, the GRC framework is an area where we (the security industry) and our customers can come together to attack the problems facing us. As a small but significant step in this direction, Osprey Security presents Osprey Risk Intelligence and Compliance (ORIC) platform."
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "p",
+							"text": "ORIC, the platform gives us an option to understand and manage “Risk” intelligently. Our audience, would readily ask how? (Yet another GRC platform!) To that, we say, by incorporating and ingesting external and internal standards and compliance information, ORIC is able to unify your risk posture based on your organization’s needs. Delving deeper into ORIC’s platform aspects, we offer the ability to:"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "h4",
+							"text": "Ingest Internal/External structured/unstructured Data"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "p",
+							"text": "ORIC lets the user ingest and synthesize myriad datasets from internal spreadsheets to external compliance standards and presents a synthesized view of the risk posture. The ability to look at structured and unstructured data and conduct a gap analysis of your security/risk/compliance landscape is an unmatched proposition in today’s GRC eco-system. ORIC backs the gap analysis with Osprey’s internal expertise on cybersecurity and compliance experience across multiple domains such as finance, healthcare and government organizations."
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "h4",
+							"text": "Ingest legacy GRC system Data"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "p",
+							"text": "ORIC allows our users to be able to ingest data from large legacy GRC systems that have dominated the corporate GRC market. Not only is this process quick and efficient, but gives the users flexibility in their project and migration time-lines."
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "h4",
+							"text": "Visualize \"Risk\" & \"Compliance\" on a dashboard"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "p",
+							"text": "For a GRC stakeholder, ORIC provides the user, a clear and concise view of their internal and external compliance risk metrics so that she/he can assess and plan their GRC activities. To be able to visualize and present a concise picture to the C-suite using the dashboard is a significant value-add to the GRC organization’s arsenal."
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "h4",
+							"text": "GRC Issue tracking & management"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "p",
+							"text": "ORIC is most likely, the only GRC platform that integrates an issue-tracking system that helps the user to track all GRC related activities and “track” multiple compliance related issues and tickets that can be accessed and tracked through a single user interface. No longer, does the user need to track issues across the organization, in silos. She/He can use ORIC’s inbuilt issue tracking and risk posture through a single user interface, and provide a unified view across the organization’s boundaries."
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "h4",
+							"text": "Integration & Administration"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "p",
+							"text": "ORIC respects an organization’s needs to integrate within its own IT infrastructure by allowing authentication and authorization through 3rd parties such as Active Directory or OAuth. This allows our users to present the right information to the right user in the right context. ORIC has a ground-up design that allows the user to extend this model for their choice of authentication and authorization. In summary, ORIC has an intelligent platform that allows us to assess and monitor the \"risk\" posed to an organization while meeting its compliance needs."
+						},
+						"contents": null
+					}
+				]
+			},
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "pad-40-0",
 						"inner": "center"
 					},
 					"bg": {
