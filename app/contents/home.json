@@ -184,7 +184,7 @@
 									"type": "image",
 									"class": "center client-logo",
 									"size": "",
-									"src": "client/images/icons/movement.png",
+									"src": "client/images/icons/icon_certification.png",
 									"alt": "Control attacker movement icon"
 								},
 								"contents": null
@@ -192,14 +192,14 @@
 							{
 								"config": {
 									"type": "h4",
-									"text": "CRITICAL INFRASTRUCTURE"
+									"text": "GOVERNANCE, RISK MANAGEMENT, COMPLIANCE"
 								},
 								"contents": null
 							},
 							{
 								"config": {
 									"type": "p",
-									"text": "Inspect the foundation of your business and ensure optimal operating efficiency and reliability."
+									"text": "Avoid wasteful overlaps through integration in a holistic and organization-wide manner."
 								},
 								"contents": null
 							},
