@@ -122,14 +122,14 @@
 							{
 								"config": {
 									"type": "h3",
-									"text": "Stop attackers"
+									"text": "CRITICAL INFRASTRUCTURE"
 								},
 								"contents": null
 							},
 							{
 								"config": {
 									"type": "p",
-									"text": "Lorem ipsum dolor sit amet, qui ex noster eligendi efficiendi, quo legere antiopam ei. Tale oportere at sit, ad cum quas nostrum accusamus."
+									"text": "Inspect the foundation of your business and ensure optimal operating efficiency and reliability."
 								},
 								"contents": null
 							},
@@ -180,14 +180,14 @@
 							{
 								"config": {
 									"type": "h3",
-									"text": "Mitigate attacks"
+									"text": "RISK ASSESSMENTS"
 								},
 								"contents": null
 							},
 							{
 								"config": {
 									"type": "p",
-									"text": "Lorem ipsum dolor sit amet, qui ex noster eligendi efficiendi, quo legere antiopam ei. Tale oportere at sit, ad cum quas nostrum accusamus."
+									"text": "Minimize stakeholder confusion by addressing their most important concerns - the security of your infrastructure."
 								},
 								"contents": null
 							},
@@ -238,14 +238,14 @@
 							{
 								"config": {
 									"type": "h3",
-									"text": "Secure enterprise"
+									"text": "VULNERABILITY ASSESSMENTS"
 								},
 								"contents": null
 							},
 							{
 								"config": {
 									"type": "p",
-									"text": "Lorem ipsum dolor sit amet, qui ex noster eligendi efficiendi, quo legere antiopam ei. Tale oportere at sit, ad cum quas nostrum accusamus."
+									"text": "Perform vulnerability or penetration testing to determine the impact to your business from a breach of your network, application, internal cloud, or other IT assets."
 								},
 								"contents": null
 							},
