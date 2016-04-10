@@ -93,7 +93,7 @@
 					},
 					"bg": {
 						"img": "client/images/backgrounds/circuit_board.png",
-						"color": "#048",
+						"color": "#12374c",
 						"size": "",
 						"repeat": "",
 						"position": "",
