@@ -92,19 +92,14 @@
 						"inner": "white-txt center"
 					},
 					"bg": {
-						"img": "",
+						"img": "client/images/backgrounds/circuit_board.png",
 						"color": "#444",
 						"size": "",
 						"repeat": "",
 						"position": "",
-						"attachment": "",
-						"gradient": {
-							"angle": "180deg",
-							"color1": "#444",
-							"color2": "#777"
-						},
+						"attachment": "fixed",
 						"opacity": 0,
-						"parallax": 0
+						"parallax": 0.2
 					}
 				},
 				"contents": [
