@@ -242,7 +242,7 @@
 									"type": "image",
 									"class": "center client-logo",
 									"size": "",
-									"src": "client/images/icons/attacks.png",
+									"src": "client/images/icons/icon_search.png",
 									"alt": "Mitigate attacks icon"
 								},
 								"contents": null
@@ -300,7 +300,7 @@
 									"type": "image",
 									"class": "center client-logo",
 									"size": "",
-									"src": "client/images/icons/enterprise.png",
+									"src": "client/images/icons/icon_crosshair.png",
 									"alt": "Secure enterprise icon"
 								},
 								"contents": null
