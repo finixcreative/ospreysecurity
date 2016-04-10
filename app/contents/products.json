@@ -164,7 +164,7 @@
 					"type": "row",
 					"class": {
 						"outer": "",
-						"inner": "white-txt center pad-40-0"
+						"inner": "white-txt center pad-40-20-0"
 					},
 					"bg": {
 						"img": "client/images/backgrounds/circuit_board.png",
@@ -194,29 +194,10 @@
 					},
 					{
 						"config": {
-							"type": "image",
-							"id": "",
-							"class": "full pad-20",
-							"size": "",
-							"src": "client/images/products/oric.png",
-							"alt": ""
-						},
-						"contents": null
-					},
-					{
-						"config": {
 							"type": "button",
 							"id": "",
 							"class": "cta-button center pad",
 							"size": "",
-							"bg": {
-								"color": "#e57d00",
-								"hover": "#fbb03b"
-							},
-							"txt": {
-								"color": "#fff",
-								"hover": "#fff"
-							},
 							"name": "",
 							"buttontype": "",
 							"value": "",
@@ -225,6 +206,17 @@
 							"text": "Request demo",
 							"link": "#/contact",
 							"target": ""
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "image",
+							"id": "",
+							"class": "full pad-top-40",
+							"size": "",
+							"src": "client/images/products/oric.png",
+							"alt": ""
 						},
 						"contents": null
 					}
