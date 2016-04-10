@@ -188,7 +188,8 @@
 					{
 						"config": {
 							"type": "h4",
-							"text": "Osprey Risk Intelligence & Compliance"
+							"text": "Osprey Risk Intelligence & Compliance",
+							"class": "pad-bottom-20"
 						},
 						"contents": null
 					},
@@ -213,7 +214,7 @@
 						"config": {
 							"type": "image",
 							"id": "",
-							"class": "full pad-top-40",
+							"class": "full",
 							"size": "",
 							"src": "client/images/products/oric.png",
 							"alt": ""
