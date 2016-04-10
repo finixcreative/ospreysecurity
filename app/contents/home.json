@@ -93,15 +93,15 @@
 					},
 					"bg": {
 						"img": "",
-						"color": "#12374c",
+						"color": "#444",
 						"size": "",
 						"repeat": "",
 						"position": "",
 						"attachment": "",
 						"gradient": {
 							"angle": "180deg",
-							"color1": "#12374c",
-							"color2": "#1f627f"
+							"color1": "#444",
+							"color2": "#777"
 						},
 						"opacity": 0,
 						"parallax": 0
@@ -182,7 +182,7 @@
 							{
 								"config": {
 									"type": "image",
-									"class": "center osprey-icon",
+									"class": "center client-logo",
 									"size": "",
 									"src": "client/images/icons/movement.png",
 									"alt": "Control attacker movement icon"
@@ -240,7 +240,7 @@
 							{
 								"config": {
 									"type": "image",
-									"class": "center osprey-icon",
+									"class": "center client-logo",
 									"size": "",
 									"src": "client/images/icons/attacks.png",
 									"alt": "Mitigate attacks icon"
@@ -298,7 +298,7 @@
 							{
 								"config": {
 									"type": "image",
-									"class": "center osprey-icon",
+									"class": "center client-logo",
 									"size": "",
 									"src": "client/images/icons/enterprise.png",
 									"alt": "Secure enterprise icon"
