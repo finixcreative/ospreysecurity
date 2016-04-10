@@ -153,7 +153,7 @@
 									"form": "",
 									"click": "",
 									"text": "Learn more",
-									"link": "#/signup",
+									"link": "#/services",
 									"target": ""
 								},
 								"contents": null
@@ -211,7 +211,7 @@
 									"form": "",
 									"click": "",
 									"text": "Learn more",
-									"link": "#/signup",
+									"link": "#/services",
 									"target": ""
 								},
 								"contents": null
@@ -269,7 +269,7 @@
 									"form": "",
 									"click": "",
 									"text": "Learn more",
-									"link": "#/signup",
+									"link": "#/services",
 									"target": ""
 								},
 								"contents": null
