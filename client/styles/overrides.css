@@ -446,6 +446,17 @@ header nav li ul.menu li a:hover {
 .invisible {
 	display: none;
 }
+.jump-to-top {
+	padding: 20px;
+	border-radius: 20px;
+	box-shadow: 0px 0px 1px rgba(0,0,0,0.5);
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+}
+.jump-to-top:hover {
+	box-shadow: 0px 1px 1px 1px rgba(0,0,0,0.3);
+}
 .hero .button,
 .button-body {
 	margin: 20px 0;
