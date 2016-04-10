@@ -52,7 +52,7 @@
 						"config": {
 							"type": "block",
 							"class": "pad",
-							"size": "third"
+							"size": ""
 						},
 						"contents": [
 							{
@@ -112,7 +112,7 @@
 						"config": {
 							"type": "block",
 							"class": "pad-40-20",
-							"size": "twothird"
+							"size": "third"
 						},
 						"contents": [
 							{
@@ -154,7 +154,7 @@
 						"config": {
 							"type": "block",
 							"class": "pad-40-20-0",
-							"size": "half"
+							"size": "twothird"
 						},
 						"contents": [
 							{
