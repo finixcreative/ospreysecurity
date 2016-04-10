@@ -58,13 +58,6 @@
 				"contents": [
 					{
 						"config": {
-							"type": "h3",
-							"text": "Get started"
-						},
-						"contents": null
-					},
-					{
-						"config": {
 							"type": "block",
 							"size": "half",
 							"class": "pad"
