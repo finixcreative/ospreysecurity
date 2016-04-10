@@ -77,14 +77,14 @@
 						"config": {
 							"type": "block",
 							"size": "half",
-							"class": "pad"
+							"class": "pad-60-20-0"
 						},
 						"contents": [
 							{
 								"config": {
 									"type": "block",
 									"size": "full",
-									"class": "primary-bg white-txt pad-60-20-0"
+									"class": "primary-bg white-txt pad"
 								},
 								"contents": [
 									{
@@ -124,7 +124,7 @@
 									{
 										"config": {
 											"type": "p",
-											"text": "380 Hamilton Ave, Palo Alto, CA, 94301"
+											"text": "380 Hamilton Ave, Palo Alto, CA 94301"
 										},
 										"contents": [
 											{
