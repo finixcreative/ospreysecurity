@@ -67,7 +67,21 @@
 					{
 						"config": {
 							"type": "p",
-							"text": "Osprey Security is a disruptive Cyber Security company transforming the way organizations can manage their cyber threat landscape by providing actionable security and risk intelligence using its Patent Pending Technology and processes tailored to meet the organization’s risk appetite. Our product uses empirical data driven methods to provide unmatched insight into emerging threats and help organizations address them before they can be exploited causing an incident. Our next generation machine learning based algorithms provide organizations with real-time threat intelligence, allowing them to proactively defend against cyber-attacks and help them counter with our evidence based security platform."
+							"text": "Osprey Security is a disruptive Cyber Security company transforming the way organizations can manage their cyber threat landscape by providing actionable security and risk intelligence using its Patent Pending Technology and processes tailored to meet the organization’s risk appetite."
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "p",
+							"text": "Our product uses empirical data driven methods to provide unmatched insight into emerging threats and help organizations address them before they can be exploited causing an incident."
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "p",
+							"text": "Our next generation machine learning based algorithms provide organizations with real-time threat intelligence, allowing them to proactively defend against cyber-attacks and help them counter with our evidence based security platform."
 						},
 						"contents": null
 					}
