@@ -65,7 +65,7 @@
 						"contents": [
 							{
 								"config": {
-									"type": "requestform",
+									"type": "mailchimp",
 									"class": "",
 									"size": ""
 								},
