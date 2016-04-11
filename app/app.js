@@ -6,8 +6,5 @@ angular.module('finixApp', [
 	'chimeraMod',
 	'hydraMod',
 	'angular-parallax',
-	'slidesMod',
-	'ngResource',
-	'panelMod',
-	'productsMod'
+	'ngResource'
 ]);
