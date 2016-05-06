@@ -70,6 +70,14 @@
 									"size": ""
 								},
 								"contents": null
+							},
+							{
+								"config": {
+									"type": "jotform",
+									"class": "",
+									"size": ""
+								},
+								"contents": null
 							}
 						]
 					},
