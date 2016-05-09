@@ -69,7 +69,8 @@
 							"type": "anchor",
 							"class": "pad-20",
 							"size": "third",
-							"href": "client/documents/cyber_security_reverse_engineering_malware.pdf"
+							"href": "client/documents/cyber_security_reverse_engineering_malware.pdf",
+							"target": "_blank"
 						},
 						"contents": [
 							{
@@ -89,7 +90,8 @@
 							"type": "anchor",
 							"class": "pad-20",
 							"size": "third",
-							"href": "client/documents/operating_systems_security_vulnerability_report.pdf"
+							"href": "client/documents/operating_systems_security_vulnerability_report.pdf",
+							"target": "_blank"
 						},
 						"contents": [
 							{
@@ -109,7 +111,8 @@
 							"type": "anchor",
 							"class": "pad-20",
 							"size": "third",
-							"href": "client/documents/securing_your_big_data_environment.pdf"
+							"href": "client/documents/securing_your_big_data_environment.pdf",
+							"target": "_blank"
 						},
 						"contents": [
 							{
