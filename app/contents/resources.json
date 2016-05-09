@@ -60,16 +60,69 @@
 						"config": {
 							"type": "h3",
 							"class": "center",
-							"text": "About us"
+							"text": "Documents"
 						},
 						"contents": null
 					},
 					{
 						"config": {
-							"type": "p",
-							"text": "Osprey Security is a disruptive Cyber Security company transforming the way organizations can manage their cyber threat landscape by providing actionable security and risk intelligence using its Patent Pending Technology and processes tailored to meet the organization’s risk appetite."
+							"type": "anchor",
+							"class": "pad-20",
+							"size": "third",
+							"href": "client/documents/cyber_security_reverse_engineering_malware.pdf"
 						},
-						"contents": null
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "center",
+									"size": "",
+									"src": "client/images/icons/icon-pdf.png",
+									"alt": "Download PDF"
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "anchor",
+							"class": "pad-20",
+							"size": "third",
+							"href": "client/documents/operating_systems_security_vulnerability_report.pdf"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "center",
+									"size": "",
+									"src": "client/images/icons/icon-pdf.png",
+									"alt": "Download PDF"
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "anchor",
+							"class": "pad-20",
+							"size": "third",
+							"href": "client/documents/securing_your_big_data_environment.pdf"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "center",
+									"size": "",
+									"src": "client/images/icons/icon-pdf.png",
+									"alt": "Download PDF"
+								},
+								"contents": null
+							}
+						]
 					}
 				]
 			}
