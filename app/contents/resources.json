@@ -76,7 +76,7 @@
 							{
 								"config": {
 									"type": "image",
-									"class": "center full",
+									"class": "pad-20 center full",
 									"size": "",
 									"src": "client/images/icons/icon-pdf.png",
 									"alt": "Download PDF"
@@ -105,7 +105,7 @@
 							{
 								"config": {
 									"type": "image",
-									"class": "center full",
+									"class": "pad-20 center full",
 									"size": "",
 									"src": "client/images/icons/icon-pdf.png",
 									"alt": "Download PDF"
@@ -134,7 +134,7 @@
 							{
 								"config": {
 									"type": "image",
-									"class": "center full",
+									"class": "pad-20 center full",
 									"size": "",
 									"src": "client/images/icons/icon-pdf.png",
 									"alt": "Download PDF"
