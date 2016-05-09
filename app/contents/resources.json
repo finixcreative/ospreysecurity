@@ -76,10 +76,18 @@
 							{
 								"config": {
 									"type": "image",
-									"class": "center",
+									"class": "center full",
 									"size": "",
 									"src": "client/images/icons/icon-pdf.png",
 									"alt": "Download PDF"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h4",
+									"class": "center",
+									"text": "Cyber Security Reverse Engineering Malware"
 								},
 								"contents": null
 							}
@@ -97,10 +105,18 @@
 							{
 								"config": {
 									"type": "image",
-									"class": "center",
+									"class": "center full",
 									"size": "",
 									"src": "client/images/icons/icon-pdf.png",
 									"alt": "Download PDF"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h4",
+									"class": "center",
+									"text": "Operating Systems Security Vulnerability Report"
 								},
 								"contents": null
 							}
@@ -118,10 +134,18 @@
 							{
 								"config": {
 									"type": "image",
-									"class": "center",
+									"class": "center full",
 									"size": "",
 									"src": "client/images/icons/icon-pdf.png",
 									"alt": "Download PDF"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h4",
+									"class": "center",
+									"text": "Securing Your Big Data Environment"
 								},
 								"contents": null
 							}
