@@ -67,7 +67,7 @@
 					{
 						"config": {
 							"type": "anchor",
-							"class": "pad-20",
+							"class": "pad-20 center",
 							"size": "third",
 							"href": "client/documents/cyber_security_reverse_engineering_malware.pdf",
 							"target": "_blank"
@@ -76,7 +76,7 @@
 							{
 								"config": {
 									"type": "image",
-									"class": "pad-20 center full",
+									"class": "pad-20",
 									"size": "",
 									"src": "client/images/icons/icon-pdf.png",
 									"alt": "Download PDF"
@@ -86,7 +86,7 @@
 							{
 								"config": {
 									"type": "h4",
-									"class": "center",
+									"class": "",
 									"text": "Cyber Security Reverse Engineering Malware"
 								},
 								"contents": null
@@ -96,7 +96,7 @@
 					{
 						"config": {
 							"type": "anchor",
-							"class": "pad-20",
+							"class": "pad-20 center",
 							"size": "third",
 							"href": "client/documents/operating_systems_security_vulnerability_report.pdf",
 							"target": "_blank"
@@ -105,7 +105,7 @@
 							{
 								"config": {
 									"type": "image",
-									"class": "pad-20 center full",
+									"class": "pad-20",
 									"size": "",
 									"src": "client/images/icons/icon-pdf.png",
 									"alt": "Download PDF"
@@ -115,7 +115,7 @@
 							{
 								"config": {
 									"type": "h4",
-									"class": "center",
+									"class": "",
 									"text": "Operating Systems Security Vulnerability Report"
 								},
 								"contents": null
@@ -125,7 +125,7 @@
 					{
 						"config": {
 							"type": "anchor",
-							"class": "pad-20",
+							"class": "pad-20 center",
 							"size": "third",
 							"href": "client/documents/securing_your_big_data_environment.pdf",
 							"target": "_blank"
@@ -134,7 +134,7 @@
 							{
 								"config": {
 									"type": "image",
-									"class": "pad-20 center full",
+									"class": "pad-20",
 									"size": "",
 									"src": "client/images/icons/icon-pdf.png",
 									"alt": "Download PDF"
@@ -144,7 +144,7 @@
 							{
 								"config": {
 									"type": "h4",
-									"class": "center",
+									"class": "",
 									"text": "Securing Your Big Data Environment"
 								},
 								"contents": null
