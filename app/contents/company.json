@@ -233,6 +233,121 @@
 						]
 					}
 				]
+			},
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "",
+						"inner": "pad-40-20"
+					},
+					"bg": {
+						"img": "",
+						"color": "#f3f3f3",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"parallax": 0
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "h3",
+							"class": "center",
+							"text": "Resources"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "anchor",
+							"class": "pad-20 center",
+							"size": "third",
+							"href": "client/documents/cyber_security_reverse_engineering_malware.pdf",
+							"target": "_blank"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "pad-20",
+									"size": "",
+									"src": "client/images/icons/icon-pdf.png",
+									"alt": "Download PDF"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h4",
+									"class": "",
+									"text": "Cyber Security Reverse Engineering Malware"
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "anchor",
+							"class": "pad-20 center",
+							"size": "third",
+							"href": "client/documents/operating_systems_security_vulnerability_report.pdf",
+							"target": "_blank"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "pad-20",
+									"size": "",
+									"src": "client/images/icons/icon-pdf.png",
+									"alt": "Download PDF"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h4",
+									"class": "",
+									"text": "Operating Systems Security Vulnerability Report"
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "anchor",
+							"class": "pad-20 center",
+							"size": "third",
+							"href": "client/documents/securing_your_big_data_environment.pdf",
+							"target": "_blank"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "pad-20",
+									"size": "",
+									"src": "client/images/icons/icon-pdf.png",
+									"alt": "Download PDF"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h4",
+									"class": "",
+									"text": "Securing Your Big Data Environment"
+								},
+								"contents": null
+							}
+						]
+					}
+				]
 			}
 		]
 	}
